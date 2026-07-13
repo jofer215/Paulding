@@ -46,3 +46,7 @@ exclude:
   - CONTRIBUTING.md
   - vendor
   - node_modules
+  # Raw, uncurated source material staged for review — not part of the
+  # published site. Individual files get promoted into assets/files/ with
+  # real _items/ metadata once captioned and reviewed.
+  - uploads
