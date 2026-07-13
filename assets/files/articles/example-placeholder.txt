@@ -1,3 +1,0 @@
-This is a placeholder for a scanned article file (e.g. example-placeholder.pdf).
-Replace this file with a real scan and update the `file:` path in the
-corresponding _items entry. See CONTRIBUTING.md for details.

@@ -1,4 +1,6 @@
-# Paulding County History Archive
+# Studying Paulding County
+
+*History, Archives, and Stories from Paulding County, Ohio*
 
 A community-maintained, open-source archive of historical documents, maps,
 articles, and research links about **Paulding County, Ohio**. This is a
