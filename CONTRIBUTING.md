@@ -1,4 +1,4 @@
-# Contributing to the Paulding County History Archive
+# Contributing to Studying Paulding County
 
 Thank you for helping build this archive. You don't need to know Jekyll,
 Ruby, or web development to contribute — you need a scanned file (or a
