@@ -236,6 +236,28 @@ main.wrap {
 }
 .button:hover { opacity: 0.9; }
 .item-body { margin-top: 1.5rem; }
+.item-body table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.9rem;
+  margin: 1rem 0;
+}
+.item-body .table-wrap {
+  overflow-x: auto;
+  margin: 1rem 0;
+}
+.item-body .table-wrap table { margin: 0; }
+.item-body th,
+.item-body td {
+  border: 1px solid var(--line);
+  padding: 0.4rem 0.6rem;
+  text-align: left;
+  vertical-align: top;
+}
+.item-body th {
+  background: var(--paper-alt);
+  white-space: nowrap;
+}
 
 /* Responsive nav */
 @media (max-width: 720px) {
