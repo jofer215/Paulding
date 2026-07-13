@@ -28,7 +28,10 @@ crossed again by General James Winchester, who fought a running battle
 across Emerald Township with the British and Indians. Also in 1812, Fort
 Brown was built at the confluence of the Big and Little Auglaize Rivers
 by General William Henry Harrison's troops under Colonel Samuel Wells.
-It was later to be the site of the first post office in the County.
+It was later to be the site of the first post office in the County. See
+this archive's [1973 reference map]({{ "/archive/maumee-river-historic-map-1973/" | relative_url }})
+of the Maumee River watershed for a visual record of the region's
+military roads, forts, and battle sites from this period.
 
 Paulding County was originally inhabited by prehistoric mound builders
 and later by Pottawatomie and Ottawa tribes. Some Indians were still
