@@ -7,9 +7,9 @@ description: >-
 # NOTE: baseurl must match the repo name's exact case — GitHub Pages
 # project site URLs are case-sensitive.
 url: "https://jofer215.github.io"
-baseurl: "/paulding"
+baseurl: "/Paulding"
 
-repository: jofer215/paulding
+repository: jofer215/Paulding
 
 # Controlled vocabulary used for filtering. Keep in sync with _data/eras.yml
 # and the "type" values documented in CONTRIBUTING.md.
@@ -44,6 +44,7 @@ exclude:
   - Gemfile.lock
   - README.md
   - CONTRIBUTING.md
+  - ROADMAP.md
   - vendor
   - node_modules
   # Raw, uncurated source material staged for review — not part of the

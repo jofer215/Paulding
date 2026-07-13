@@ -7,7 +7,7 @@ place, its institutions, and its past, not individual family trees.
 
 The site is a static Jekyll site hosted on GitHub Pages, browsable at:
 
-**https://jofer215.github.io/paulding/**
+**https://jofer215.github.io/Paulding/**
 
 ## What's here
 
@@ -34,9 +34,12 @@ bundle install
 bundle exec jekyll serve
 ```
 
-Then open http://localhost:4000/paulding/ in a browser. (The `/paulding/`
+Then open http://localhost:4000/Paulding/ in a browser. (The `/Paulding/`
 prefix comes from `baseurl` in `_config.yml`, and must match the exact case
-of the GitHub repo name — update both if you rename or fork the repo.)
+of the GitHub repo name — update both if you rename or fork the repo. Note:
+GitHub often rejects a repo rename that only changes case — e.g. `Paulding`
+to `paulding` — so a true case change may require renaming to a different
+name first, then renaming again to the desired lowercase name.)
 
 ## Project structure
 
