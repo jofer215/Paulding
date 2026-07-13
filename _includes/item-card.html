@@ -1,0 +1,24 @@
+{% assign item = include.item %}
+{% assign era_label = item.era %}
+{% for e in site.data.eras %}
+  {% if e.key == item.era %}{% assign era_label = e.label %}{% endif %}
+{% endfor %}
+<article class="item-card"
+  data-type="{{ item.type }}"
+  data-era="{{ item.era }}"
+  data-tags="{{ item.tags | join: ' ' | downcase }}"
+  data-search="{{ item.title | downcase }} {{ item.description | strip_html | downcase }} {{ item.tags | join: ' ' | downcase }}">
+  <a class="item-card-link" href="{{ item.url | relative_url }}">
+    {% if item.file and item.file contains '.jpg' or item.file contains '.jpeg' or item.file contains '.png' %}
+      <div class="item-card-thumb">
+        <img src="{{ item.file | relative_url }}" alt="" loading="lazy">
+      </div>
+    {% endif %}
+    <div class="item-card-body">
+      <span class="badge badge-{{ item.type }}">{{ item.type }}</span>
+      <h3>{{ item.title }}</h3>
+      <p class="item-card-meta">{{ era_label }}{% if item.date %} &middot; {{ item.date | date: "%Y" }}{% endif %}</p>
+      {% if item.description %}<p class="item-card-desc">{{ item.description }}</p>{% endif %}
+    </div>
+  </a>
+</article>

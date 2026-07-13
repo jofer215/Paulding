@@ -1,0 +1,22 @@
+<div class="filter-bar" role="search" aria-label="Filter materials">
+  <input type="text" id="filter-search" placeholder="Search by title, tag, or keyword&hellip;" aria-label="Search text">
+
+  {% unless include.lock_type %}
+  <select id="filter-type" aria-label="Filter by type">
+    <option value="">All types</option>
+    {% for t in site.material_types %}
+      <option value="{{ t }}">{{ t | capitalize }}s</option>
+    {% endfor %}
+  </select>
+  {% endunless %}
+
+  <select id="filter-era" aria-label="Filter by era">
+    <option value="">All eras</option>
+    {% for e in site.data.eras %}
+      <option value="{{ e.key }}">{{ e.label }}</option>
+    {% endfor %}
+  </select>
+
+  <button type="button" id="filter-reset" class="button-secondary">Reset</button>
+</div>
+<p id="filter-count" class="filter-count" aria-live="polite"></p>

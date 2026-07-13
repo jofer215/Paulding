@@ -1,0 +1,9 @@
+{% assign items = include.items %}
+<div class="item-grid">
+  {% for item in items %}
+    {% include item-card.html item=item %}
+  {% else %}
+    <p>No materials here yet. <a href="https://github.com/{{ site.repository }}/blob/main/CONTRIBUTING.md">Be the first to add one.</a></p>
+  {% endfor %}
+</div>
+<script src="{{ '/assets/js/filter.js' | relative_url }}" defer></script>

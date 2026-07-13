@@ -1,0 +1,16 @@
+# Controlled list of eras used for filtering materials.
+# Pick the closest match when adding front matter to a new item.
+# Keep this list short and stable — it drives the era dropdown on every page.
+
+- key: pre-1820
+  label: "Pre-Settlement (before 1820)"
+- key: 1820-1860
+  label: "Settlement & Founding (1820–1860)"
+- key: 1860-1880
+  label: "Civil War Era (1860–1880)"
+- key: 1880-1920
+  label: "Growth & Industry (1880–1920)"
+- key: 1920-2000
+  label: "20th Century (1920–2000)"
+- key: 2000-present
+  label: "Modern (2000–present)"

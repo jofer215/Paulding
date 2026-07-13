@@ -1,0 +1,45 @@
+---
+layout: default
+title: Home
+---
+<div class="hero">
+  <h1>Paulding County History Archive</h1>
+  <p>
+    A community-maintained collection of historical documents, maps, articles, and
+    research links about Paulding County, Ohio — open for anyone to browse, and
+    open for anyone to contribute to on GitHub.
+  </p>
+</div>
+
+<div class="section-links">
+  <a href="{{ '/documents/' | relative_url }}">
+    <strong>Documents</strong>
+    <span>Deeds, records, minutes, and other scanned primary sources</span>
+  </a>
+  <a href="{{ '/maps/' | relative_url }}">
+    <strong>Maps</strong>
+    <span>Plat maps, atlases, and surveys of the county</span>
+  </a>
+  <a href="{{ '/articles/' | relative_url }}">
+    <strong>Articles</strong>
+    <span>Newspaper clippings, essays, and written histories</span>
+  </a>
+  <a href="{{ '/links/' | relative_url }}">
+    <strong>Links</strong>
+    <span>External archives, societies, and research resources</span>
+  </a>
+</div>
+
+<h2>Recently Added</h2>
+{% assign recent = site.items | sort: "date" | reverse | slice: 0, 6 %}
+{% include item-grid.html items=recent %}
+
+<p><a href="{{ '/browse.html' | relative_url }}">Browse and search everything &rarr;</a></p>
+
+<h2>Contribute</h2>
+<p>
+  This archive grows through contributions. If you have a scanned document, map,
+  article, or a link worth including, see the
+  <a href="https://github.com/{{ site.repository }}/blob/main/CONTRIBUTING.md">contributing guide</a>
+  for how to add it — no coding experience required.
+</p>

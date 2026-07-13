@@ -1,0 +1,46 @@
+title: Paulding County History Archive
+description: >-
+  A community-maintained archive of historical documents, maps, articles,
+  and research links about Paulding County, Ohio.
+
+# GitHub Pages serving info — update these if you fork/rename the repo.
+url: "https://jofer215.github.io"
+baseurl: "/paulding"
+
+repository: jofer215/paulding
+
+# Controlled vocabulary used for filtering. Keep in sync with _data/eras.yml
+# and the "type" values documented in CONTRIBUTING.md.
+material_types:
+  - document
+  - map
+  - article
+  - link
+
+collections:
+  items:
+    output: true
+    permalink: /archive/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: items
+    values:
+      layout: item
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - CONTRIBUTING.md
+  - vendor
+  - node_modules

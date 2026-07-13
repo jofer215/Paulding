@@ -1,0 +1,11 @@
+---
+layout: default
+title: Documents
+description: Scanned records, deeds, minutes, and other primary-source documents about Paulding County.
+---
+<h1>Documents</h1>
+<p>Scanned records, deeds, meeting minutes, and other primary-source documents.</p>
+
+{% include filter-controls.html lock_type=true %}
+{% assign docs = site.items | where: "type", "document" | sort: "date" | reverse %}
+{% include item-grid.html items=docs %}

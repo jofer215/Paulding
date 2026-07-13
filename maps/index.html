@@ -1,0 +1,11 @@
+---
+layout: default
+title: Maps
+description: Historical plat maps, atlases, and survey maps of Paulding County.
+---
+<h1>Maps</h1>
+<p>Historical plat maps, atlases, and survey maps.</p>
+
+{% include filter-controls.html lock_type=true %}
+{% assign maps = site.items | where: "type", "map" | sort: "date" | reverse %}
+{% include item-grid.html items=maps %}

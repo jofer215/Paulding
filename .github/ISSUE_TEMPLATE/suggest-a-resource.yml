@@ -1,0 +1,58 @@
+name: Suggest a resource
+description: Suggest a document, map, article, or link to add to the archive (no git/GitHub editing required).
+title: "[Suggestion]: "
+labels: ["new-material"]
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Material type
+      options:
+        - Document
+        - Map
+        - Article
+        - Link
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      placeholder: "e.g. 1875 Combination Atlas Map, Paulding County"
+    validations:
+      required: true
+  - type: input
+    id: era
+    attributes:
+      label: Approximate era or date
+      placeholder: "e.g. 1875, or '1860s-1880s'"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What is this item, and why is it worth including?
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      placeholder: "Where did this come from? An archive, courthouse, family collection, website, etc."
+    validations:
+      required: true
+  - type: textarea
+    id: link_or_file
+    attributes:
+      label: Link or file
+      description: A URL to the resource, or describe the file you'd like to contribute (attach it to this issue if you can).
+    validations:
+      required: true
+  - type: textarea
+    id: rights
+    attributes:
+      label: Rights / copyright status
+      description: Public domain, permission granted, your own material, or unknown?
+    validations:
+      required: false

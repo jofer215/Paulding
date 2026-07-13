@@ -1,0 +1,42 @@
+---
+layout: default
+---
+{% assign era_label = page.era %}
+{% for e in site.data.eras %}
+  {% if e.key == page.era %}{% assign era_label = e.label %}{% endif %}
+{% endfor %}
+<article class="item-detail">
+  <p class="breadcrumb"><a href="{{ '/' | relative_url }}{{ page.type }}s/">&larr; Back to {{ page.type }}s</a></p>
+
+  <span class="badge badge-{{ page.type }}">{{ page.type }}</span>
+  <h1>{{ page.title }}</h1>
+
+  <dl class="item-meta">
+    <div><dt>Era</dt><dd>{{ era_label }}</dd></div>
+    {% if page.date %}<div><dt>Date</dt><dd>{{ page.date | date: "%B %-d, %Y" }}</dd></div>{% endif %}
+    {% if page.source %}<div><dt>Source</dt><dd>{{ page.source }}</dd></div>{% endif %}
+    {% if page.rights %}<div><dt>Rights &amp; source note</dt><dd>{{ page.rights }}</dd></div>{% endif %}
+    {% if page.tags and page.tags.size > 0 %}
+      <div><dt>Tags</dt><dd>{% for tag in page.tags %}<span class="tag">{{ tag }}</span>{% endfor %}</dd></div>
+    {% endif %}
+  </dl>
+
+  {% if page.file %}
+    {% if page.file contains '.jpg' or page.file contains '.jpeg' or page.file contains '.png' %}
+      <a href="{{ page.file | relative_url }}" target="_blank" rel="noopener">
+        <img class="item-detail-image" src="{{ page.file | relative_url }}" alt="{{ page.title }}">
+      </a>
+      <p><a class="button" href="{{ page.file | relative_url }}" target="_blank" rel="noopener">Open full-size image</a></p>
+    {% else %}
+      <p><a class="button" href="{{ page.file | relative_url }}" target="_blank" rel="noopener">Download file</a></p>
+    {% endif %}
+  {% endif %}
+
+  {% if page.external_url %}
+    <p><a class="button" href="{{ page.external_url }}" target="_blank" rel="noopener">Visit external resource &#8599;</a></p>
+  {% endif %}
+
+  <div class="item-body">
+    {{ content }}
+  </div>
+</article>

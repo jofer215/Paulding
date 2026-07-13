@@ -1,0 +1,11 @@
+---
+layout: default
+title: Links
+description: Curated links to external archives, societies, and research resources for Paulding County.
+---
+<h1>External Links</h1>
+<p>Curated links to archives, historical societies, libraries, and other research resources.</p>
+
+{% include filter-controls.html lock_type=true %}
+{% assign links = site.items | where: "type", "link" | sort: "date" | reverse %}
+{% include item-grid.html items=links %}

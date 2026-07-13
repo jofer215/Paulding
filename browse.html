@@ -1,0 +1,11 @@
+---
+layout: default
+title: Browse All Materials
+description: Search and filter every document, map, article, and link in the archive.
+---
+<h1>Browse All Materials</h1>
+<p>Search across every item in the archive, or narrow by type and era.</p>
+
+{% include filter-controls.html %}
+{% assign sorted_items = site.items | sort: "date" | reverse %}
+{% include item-grid.html items=sorted_items %}
