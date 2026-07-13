@@ -705,6 +705,10 @@ pointing upward to tell us that heaven is their home.
 
 ## Canals and Railroads
 
+*See also this archive's [Paulding County Canals]({{ "/archive/paulding-county-canals-1892-atlas/" | relative_url }})
+entry, a parallel account from the 1892 Historical Atlas that continues
+further into the canal packet boat and mail lines.*
+
 As early as 1816 the necessity of connecting the waters of Lake Erie with
 those of the Ohio River, by means of a navigable canal, was assented to,
 and a correspondence upon that subject was had between Hon. Ethan Allen
