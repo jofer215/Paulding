@@ -3,10 +3,10 @@ title: "History of Paulding County, Ohio (Historical Hand-Atlas, 1882)"
 type: document
 era: 1880-1920
 date: 1882-01-01
-description: "Prof. Everett A. Budd's county history essay from the 1882 Historical Hand-Atlas, covering county statistics, geography, early settlement of the Maumee Valley, soil and timber, and the county's newspaper history."
+description: "Prof. Everett A. Budd's county history essay from the 1882 Historical Hand-Atlas, covering county statistics, geography, early settlement of the Maumee Valley, soil and timber, newspaper history, and manufacturing industries."
 source: "Prof. Everett A. Budd, in Historical Hand-Atlas: History of Northwestern Ohio and History of Paulding County, Ohio, H. H. Hardesty & Co., Publishers, Chicago and Toledo, 1882"
 rights: "Public domain (published 1882)."
-tags: [1882, historical hand-atlas, county history, statistics, geography, settlement, maumee valley, soil, timber, black swamp, newspapers, press]
+tags: [1882, historical hand-atlas, county history, statistics, geography, settlement, maumee valley, soil, timber, black swamp, newspapers, press, manufacturing, iron furnace, labor]
 ---
 
 *History of Paulding County, by Prof. Everett A. Budd, as printed in the
@@ -247,6 +247,100 @@ E. Osborn. Its publication was continued in that village until it was
 removed to Paulding, where Mr. Osborn changed it to the Paulding County
 Gazette, issued the first copy November 25, 1878, and continues to
 publish it up to the present time.
+
+## Manufacturing Industries
+
+The heavy growth of timber in the county has invited several kinds of
+manufacturing establishments into it. Among these may be noticed the two
+furnaces for the smelting of iron ores. One of these is known as the
+Antwerp Furnace, and is located on the Maumee river at Antwerp; the other
+is known as the Paulding Furnace, and is located near Cecil, on section
+23, Crane township. The ore is obtained from Lake Superior region and is
+transported by the lakes to Toledo; from there is was formerly brought by
+canal to the furnaces, but is now shipped over the Wabash, St. Louis &
+Pacific R. R.
+
+The Antwerp Furnace is owned by Bradley, Cobb, Kimball & Company; it is
+operated by Thomas Fitzsimons. It was built in 1865; the height of stack
+is 42 feet; height of boshes, 7 feet; height of hearth, 6 feet; height of
+tuyeres, 40 inches; diameter of throat, 3 feet 6 inches; diameter in
+boshes, 8 feet 10 inches; of tuyeres, 3 1/4 inches; number of tuyeres, 3;
+temperature and pressure of blast not known.
+
+The cost of ores at the furnace is $10. Charcoal is used for fuel and is
+obtained at the furnace kilns at a cost of 7 1/2 cents per bushel.
+
+The flux is corniferous limestone, and is obtained from the Maumee river
+near the furnace at a cost of $8 per cord. A charge is composed of 600
+pounds of ore, 30 pounds of flux, and 30 bushels of charcoal. The number
+of charges in twenty-four hours is 50; the production in twenty-four
+hours is 13 tons.
+
+Two-thirds of all the iron produced is gray, one-twelfth is white, and
+one-fourth is mottled.
+
+The kind of engine used in blast is upright; diameter of steam cylinder,
+26 inches; size of blast cylinder, 50 inches in diameter and 26 feet long;
+stroke of piston per minute, about 30; pressure of steam, from 40 to 50
+pounds; the blast ovens used are Pollocks. The average length of campaign
+is eight months.
+
+The proprietors of the Paulding Furnace are Graff, Bennett & Company. It
+is operated by the Paulding Iron Company, limited; S. Frank Eagle is the
+present superintendent.
+
+The furnace was built in the year 1864-5. It was burnt down in the Fall
+of 1875, and rebuilt the following winter. The dimensions of the furnace
+are as follows: height of stack, 40 feet; height of boshes, 8 feet;
+height of hearth, 6 feet; height of tuyeres, 32 inches; diameter of
+tuyeres, 3 1/2 inches; diameter at throat, 38 inches; diameter at boshes,
+9 1/2 feet; number of tuyeres, 3; diameter at nozzle of tuyeres, 3 1/2
+inches. The temperature of the blast is 900 degrees; pressure of blast,
+1 1/2 pounds per square inch. The Lake Superior ore is used. It is
+obtained from a mine near Marquette, Michigan, at a cost of $10 per ton.
+Its percentage of iron is about 66.
+
+The fuel used is charcoal, and is obtained at the furnace at a cost of
+about 7 1/2 cents per bushel.
+
+Limestone (upper corniferous), is used for flux. It was formerly obtained
+from section 17, Defiance township, Defiance county, Ohio, at a cost of
+$1.50 per perch at the furnace. The amount of charge is 500 pounds of
+ore, 22 bushels of coal, and 50 pounds of limestone; the number of
+charges in twenty-four hours is about 80.
+
+The amount of iron produced in twenty-four hours is about eleven tons.
+
+All kinds of iron is made, and about five-sixths of all is gray.
+
+A horizontal blast engine is used. The size of steam cylinder is eighteen
+inches; the pressure of steam is about sixty pounds.
+
+The annual production of iron was, in 1869, 2,788 tons; in 1879, 2,494
+tons; 1871, 2,725 tons. The price of iron in 1869 was about $44; in 1870
+about $38; and in 1871, about $40 per ton.
+
+The amount of fuel used in producing a ton of iron is about 140 bushels.
+
+The furnace is situated on the Paulding & Cecil Railroad, and the ore and
+wood are brought to it by rail.
+
+A mill for the manufacture of elm hoops was erected at Paulding in the
+Fall of 1880, and is now in successful operation, by the firm of Holcombe
+& Evans. The machinery is run by two large engines, which are furnished
+by three boilers.
+
+The machinery consists of a large circular saw for sawing the logs into
+bolts, one cutter, two planers, two pointers, and four coiling machines.
+
+The number of hands employed is about fifty, and the number of hoops
+manufactured is about 36,000 per day. Col. W. C. Kewen is the present
+superintendent.
+
+Extensive stave factories are located at Antwerp, Junction, Paulding,
+Fort Brown and Timberville. Many sawmills are located in every part of
+the county, and their lumber products form an important article of
+export.
 
 ---
 
