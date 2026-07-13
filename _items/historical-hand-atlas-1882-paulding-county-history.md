@@ -3,10 +3,10 @@ title: "History of Paulding County, Ohio (Historical Hand-Atlas, 1882)"
 type: document
 era: 1880-1920
 date: 1882-01-01
-description: "Prof. Everett A. Budd's county history essay from the 1882 Historical Hand-Atlas, covering county statistics, geography, early settlement of the Maumee Valley, and the county's soil and timber."
+description: "Prof. Everett A. Budd's county history essay from the 1882 Historical Hand-Atlas, covering county statistics, geography, early settlement of the Maumee Valley, soil and timber, and the county's newspaper history."
 source: "Prof. Everett A. Budd, in Historical Hand-Atlas: History of Northwestern Ohio and History of Paulding County, Ohio, H. H. Hardesty & Co., Publishers, Chicago and Toledo, 1882"
 rights: "Public domain (published 1882)."
-tags: [1882, historical hand-atlas, county history, statistics, geography, settlement, maumee valley, soil, timber, black swamp]
+tags: [1882, historical hand-atlas, county history, statistics, geography, settlement, maumee valley, soil, timber, black swamp, newspapers, press]
 ---
 
 *History of Paulding County, by Prof. Everett A. Budd, as printed in the
@@ -162,6 +162,91 @@ oak staves have been made in the county, and ship timber to the value of
 thousands of dollars are annually taken from its forests. The black
 walnut and poplar have become almost extinct, but cottonwood and elm yet
 remain in apparently inexhaustible quantities.
+
+## The Press
+
+Realizing the importance of a history of the county press, and the
+interest with which it would be read, the writer has sought to give it.
+The data, however, for writing the same, has been obtained with much
+difficulty, by reason of the files of first papers having been destroyed
+in the Auditor's office, at the burning of the Court House in 1868.
+
+The first newspaper in the county was started in 1853. It was called the
+age of Progress, and was published by Hon. P. W. Hardesty, in the village
+of Paulding. In it was published the first forfeited list and land sale
+of the county. It lived but for a few months, when its materials was sold
+to Hon. A. S. Latty and its name changed to the Democrat. This paper was
+published for a year or two, and was sold to J. D. Baker, who changed it
+to the Republican, published it about a year in the county, then moved it
+to Defiance.
+
+In the Summer of 1856, John W. Ayres and Ezra J. Smith bought the material
+for a printing office and started the Paulding Eagle, with Fielding S.
+Cable as editor. It was afterward sold to J. O. Shannon, who conducted the
+paper until the Fall of 1859, when the Eagle folded its pinions and sank
+down to rest upon its laurels. With its stock, and in the same office, on
+the corner of Perry and Water streets, in Paulding, S. R. Brown commenced
+the publication of the Paulding Independent, the first copy of which was
+issued on the tenth day of November, 1859. The Independent continued to be
+published by Mr. Brown until October 10, 1863, when its valedictory number
+was issued.
+
+The material of the office was sold to Dr. Daniel W. Hixson and Fielding
+S. Cable, who issued the first copy of the Paulding Press the next week
+after the demise of the Independent. The Press was published for a time,
+when the office passed into the hands of Thomas Melia, who changed its
+name to the Rural Ohioan. It was again sold to Fielding S. Cable, who
+continued its publication under the same name until his death in 1870.
+
+Its material was then purchased by Thomas Emery and Wesley A. Savage.
+These gentlemen established the Plain Dealer, and continued with the
+paper until July 10, 1873, when Mr. Emery issued his valedictory.
+
+Mr. Savage remained with the paper one week longer, then sold to J. D.
+Baker, who, without changing its name, continued to issue it until March
+26, 1874, when he removed it to some point in Wood county, Ohio.
+
+All of the above mentioned papers were published in the village of
+Paulding, and were sustained in a great measure by the county printing.
+
+In the year of 1869, the Review was started in Antwerp by Hon. Joseph
+Cable. He afterwards removed it to Paulding, and in 1872 sold its
+material to Messrs. Hammond and DeWitt who were the founders of the
+Paulding Journal. Mr. Hammond soon quit the firm, and the paper was
+controlled by Mr. DeWitt until purchased by George W. Potter, who
+commenced publishing the Paulding Democrat, April 9, 1874.
+
+In the Spring of 1876, Mr. Potter disposed of the office to the firm of
+Hardy & Becker. In four weeks after the purchase, Mr. Becker sold his
+interest to Robert Temple who continued a partner only two months, when
+the entire control of the paper went to Mr. Hardy.
+
+In the Spring of 1877, it was re-bought by Mr. Potter, and in the
+following Autumn was sold again by him to Stalter and Hardy.
+
+Shortly after this it fell into the hands of the Main's Brothers, who
+sold it to the present proprietor, R. D. Webster, in January, 1879.
+
+The publication of the Paulding Register commenced at Paulding in the
+early part of 1876, Messrs. Fisher & Keller being the editors and
+proprietors. Mr. Fisher soon retired from the paper, and Mr. Keller
+assumed control. It was a sprightly little paper, but survived only one
+short year, when in 1877 its material was sold to George P. Hardy and
+submerged into the Democrat Office.
+
+The Antwerp Banner was started in that village in the early part of 1879,
+by R. S. Murphy, who owned the office but employed H. W. Sprague to
+conduct the paper as editor and proprietor.
+
+It suspended publication about the 1st of September, 1881, by reason of
+its material being sold to Will J. Conant, and moved to Dickson,
+Tennessee, to be used in starting the Dickson County Press.
+
+The Antwerp Gazette was established in Antwerp, April 25, 1866, by Will
+E. Osborn. Its publication was continued in that village until it was
+removed to Paulding, where Mr. Osborn changed it to the Paulding County
+Gazette, issued the first copy November 25, 1878, and continues to
+publish it up to the present time.
 
 ---
 
