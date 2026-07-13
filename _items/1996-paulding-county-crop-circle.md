@@ -24,6 +24,8 @@ reproduced here from newspaper clippings:
 - ["Family Attempts to Be Fair and Generous to the Public."](https://pauldinghistory.wordpress.com/2020/08/02/family-attempts-to-be-fair-and-generous-to-the-public/) — Jim Langham, July 1996
 - ["'Significant Change' Seen in Wheat at Circle Site."](https://pauldinghistory.wordpress.com/2020/08/02/significant-change-seen-in-wheat-at-circle-site/) — Jim Langham, July 1996
 - ["Crop Circle a Multi-State Draw."](https://pauldinghistory.wordpress.com/2020/08/02/crop-circle-a-multi-state-draw/) — Jim Langham, July 1996
+- ["Teen Receives Some Reassurance."](https://pauldinghistory.wordpress.com/2020/08/02/teen-receives-some-reassurance/) — Jim Langham, July 1996
+- ["Timmerman Asks Possible Hoaxers for Explanation."](https://pauldinghistory.wordpress.com/2020/08/02/timmerman-asks-possible-hoaxers-for-explanation/) — Jim Langham, July 1996
 
 A small, quirky moment of county history, but a genuine one — it's the
 kind of local-news episode that rarely survives outside personal
