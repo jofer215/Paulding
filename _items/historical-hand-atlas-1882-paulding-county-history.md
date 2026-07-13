@@ -3,10 +3,10 @@ title: "History of Paulding County, Ohio (Historical Hand-Atlas, 1882)"
 type: document
 era: 1880-1920
 date: 1882-01-01
-description: "Prof. Everett A. Budd's county history essay from the 1882 Historical Hand-Atlas, covering county statistics, geography, formation and county seats, early settlers, soil and timber, newspaper history, manufacturing industries, county officers, streams, and Civil War military service."
+description: "Prof. Everett A. Budd's county history essay from the 1882 Historical Hand-Atlas, covering county statistics, geography, formation and county seats, early settlers, soil and timber, newspaper history, manufacturing industries, county officers, streams, Civil War military service, and the canals and railroads that shaped the county's development."
 source: "Prof. Everett A. Budd, in Historical Hand-Atlas: History of Northwestern Ohio and History of Paulding County, Ohio, H. H. Hardesty & Co., Publishers, Chicago and Toledo, 1882"
 rights: "Public domain (published 1882)."
-tags: [1882, historical hand-atlas, county history, statistics, geography, settlement, maumee valley, soil, timber, black swamp, newspapers, press, manufacturing, iron furnace, labor, county officers, streams, drainage, formation, county seat, new rochester, charloe, civil war, war record, ohio volunteer infantry, early settlers, pioneers]
+tags: [1882, historical hand-atlas, county history, statistics, geography, settlement, maumee valley, soil, timber, black swamp, newspapers, press, manufacturing, iron furnace, labor, county officers, streams, drainage, formation, county seat, new rochester, charloe, civil war, war record, ohio volunteer infantry, early settlers, pioneers, canals, wabash and erie canal, miami canal, junction, railroads]
 ---
 
 *History of Paulding County, by Prof. Everett A. Budd, as printed in the
@@ -702,6 +702,152 @@ of their ancestors. Touch not, then, the ancient elms that bend their
 shade over the lowly graves of the pioneers of Paulding county, for their
 shadows fall upon the resting places of those who need no columns
 pointing upward to tell us that heaven is their home.
+
+## Canals and Railroads
+
+As early as 1816 the necessity of connecting the waters of Lake Erie with
+those of the Ohio River, by means of a navigable canal, was assented to,
+and a correspondence upon that subject was had between Hon. Ethan Allen
+Brown of Cincinnati, and DeWitt Clinton, then Canal Commissioner of the
+State of New York.
+
+An act of the Ohio Legislature was passed in February, 1820, authorizing
+the appointment of three Commissioners to locate such a canal. The act
+also proposed to ask of the General Government a grant of one or two
+millions of land. By some reason the Commissioners were not appointed and
+no survey was made.
+
+In 1821-22 the subject of canal was again revived in the Ohio
+Legislature, and on the 31st of January a bill was passed which
+authorized an examination into the practicality of constructing a canal
+from Lake Erie to the Ohio river.
+
+Seven Commissioners were chosen for that purpose, and competent engineers
+were appointed to make surveys, examinations and estimates.
+
+Four routes were taken into consideration. The first from the Ohio river
+at Cincinnati to the Maumee river, and thence to the lake; the second
+from Sandusky Bay to some point on the Ohio; third to traverse up the
+Cuyahoga river, and then cross to the navigable waters of the Muskingum,
+thence down that stream to the Ohio; the fourth route was by way of the
+sources of the Grand and Mahoning rivers. The Cuyahoga and Muskingum
+river route won the prize, and the Ohio & Erie Canal was constructed
+thereon.
+
+In 1824, however, a survey was made of the Miami and Maumee river route,
+and an estimate of the probable cost of constructing a canal upon it was
+reported to the Ohio Legislature at its session of 1824-25.
+
+M. T. Williams, a member of the State Board of Canal Commissioners,
+directed this survey. Samuel Forrer was the Chief Engineer, assisted by
+J. L. Williams, Francis Cleveland and Richard Howe.
+
+A great portion of this survey was through an unbroken wilderness. From
+where the town of St. Marys now stands to the Auglaize river, a distance
+of about forty miles, no signs of civilization were visible.
+
+On the banks of the Auglaize a squatter named Elias McClish had made a
+small improvement. Here the party had an encampment, and also at
+Oquanoxa's town, an Indian village, which stood upon the present site of
+Charloe.
+
+The surveying of the Wabash & Erie Canal was commenced in 1826, but not
+finally completed until the Autumn of 1828.
+
+In 1827 Congress made a land grant to the State of Indiana, of one-half
+of the public lands on each side of a proposed canal, that would connect
+Lake Erie with the waters of the Wabash river. The Indiana terminus of
+the Canal, and also of the grant, was at the mouth of the Tippecanoe
+river, 213 miles from the lake.
+
+In May, 1828, Congress made a similar grant to Ohio, to aid in the
+construction of the Miami Canal from Dayton to the lake; and also in the
+same act authorized the State of Indiana to convey to Ohio the rights to
+all public lands lying within the limits of that State, upon such terms
+as might be agreed upon by these States. Accordingly, commissioners were
+chosen from both States, one from each, who met at Zanesville, Ohio in
+October, 1829, where Indiana, through her commissioner, agreed to
+surrender all the lands within the limits of Ohio to the latter named
+State on condition that she would construct the canal from the State
+line to Toledo, and give to the citizens of Indiana all the rights and
+privileges that were granted to the citizens of Ohio.
+
+Although the Miami canal was the first to be surveyed, yet Indiana people
+were the first to begin their portion of the work.
+
+The first ground on the Wabash & Erie Canal was broken at Ft. Wayne, in
+the Spring of 1832.
+
+The work progressed slowly, and by the middle of 1835 only thirty-two
+miles had been completed.
+
+In 1840 the canal was open between Lafayette and the east line of
+Indiana. Ohio was slower than Indiana to appreciate this needed channel
+of navigation, and Indiana, disappointed at this tardiness, in 1840 sent
+their Chief Engineer to Columbus to urge upon the Legislature of Ohio the
+speedy fulfillment of their portion of the canal contract.
+
+The Ohio people commenced work immediately, and in 1843 the final
+completion of the Wabash & Erie Canal took place; the event was
+celebrated at Ft. Wayne on the 4th of July of that year, and was
+participated in by citizens from both States, who listened to an able
+oration delivered upon the occasion, by General Lewis Cass.
+
+The Miami Canal was not completed until 1845.
+
+These two canals, of which a brief history has been given, pass through
+Paulding county; the Wabash & Erie enters the county on the west side and
+passes through the northern tier of townships; the Miami on the south,
+and has a course through the eastern tier of townships.
+
+They unite at the village of Junction in the northeastern part of the
+county.
+
+The beneficial results which arose from the construction of these
+canals, is acknowledged by almost every citizen in the county, yet, for
+several years they have been suffered to remain in a miserable condition.
+The Indiana portion has been totally abandoned, and unless something is
+speedily done for the repair of the Ohio portion, the great project of
+its construction, which was attended with so much labor and expense, will
+be irrecoverably and forever lost.
+
+In justice to H. S. Knapp it may be said that many of the dates and facts
+pertaining to the early surveys and construction of these canals, were
+gleaned from his History of the Maumee Valley.
+
+The first railroad in the county was the Toledo, Wabash & Western, now
+called the Wabash, St. Louis & Pacific.
+
+This road runs through the northern part of the county for a distance of
+eighteen miles, and was completed in 1855. The distance that it extends
+through Emerald township is 31,015 feet, and its value in that township,
+as placed upon the tax duplicate of the county is $81,510; its distance
+through Crane township is 34,124 feet, and its value $89,680; its
+distance through Carryall township is 22,267 feet, value $58,519; its
+distance through the village of Antwerp is 5,613 feet, valued at $14,752;
+and its distance through Harrison township is 8,410 feet, valued at
+$22,102.
+
+Its total distance in the county is 101,429 feet; its total value
+$255,563, and it pays into the county treasury a tax of about $6,000 a
+year.
+
+The Paulding & Cecil Railroad extends from Cecil to Paulding, a distance
+of about seven miles.
+
+S. Frank Eagle, of the Paulding Furnace, is the President of the road.
+The first train was run over the road September 1, 1880.
+
+The New York, Chicago & St. Louis road was completed through the county
+in September, 1881. It extends through it from east to west, a few miles
+south of its center.
+
+The Cincinnati, Van Wert & Michigan Railroad has been put in operation to
+a point on the south line of the county and its early completion from
+north to south through its center is anticipated.
+
+With these roads all in successful operation, the railroad facilities in
+Paulding county will be almost equal to any in Ohio.
 
 ---
 
