@@ -3,10 +3,10 @@ title: "History of Paulding County, Ohio (Historical Hand-Atlas, 1882)"
 type: document
 era: 1880-1920
 date: 1882-01-01
-description: "Prof. Everett A. Budd's county history essay from the 1882 Historical Hand-Atlas, covering county statistics, geography, formation and county seats, early settlement of the Maumee Valley, soil and timber, newspaper history, manufacturing industries, county officers, and streams."
+description: "Prof. Everett A. Budd's county history essay from the 1882 Historical Hand-Atlas, covering county statistics, geography, formation and county seats, early settlement of the Maumee Valley, soil and timber, newspaper history, manufacturing industries, county officers, streams, and Civil War military service."
 source: "Prof. Everett A. Budd, in Historical Hand-Atlas: History of Northwestern Ohio and History of Paulding County, Ohio, H. H. Hardesty & Co., Publishers, Chicago and Toledo, 1882"
 rights: "Public domain (published 1882)."
-tags: [1882, historical hand-atlas, county history, statistics, geography, settlement, maumee valley, soil, timber, black swamp, newspapers, press, manufacturing, iron furnace, labor, county officers, streams, drainage, formation, county seat, new rochester, charloe]
+tags: [1882, historical hand-atlas, county history, statistics, geography, settlement, maumee valley, soil, timber, black swamp, newspapers, press, manufacturing, iron furnace, labor, county officers, streams, drainage, formation, county seat, new rochester, charloe, civil war, war record, ohio volunteer infantry]
 ---
 
 *History of Paulding County, by Prof. Everett A. Budd, as printed in the
@@ -513,6 +513,104 @@ Paulding has a population of 800, and is fast taking rank as a
 manufacturing town; if no withering blights fall upon it as upon the
 other county-seats its future will be full of hope, bright and
 promising, even as it is at the present writing.
+
+## War Record
+
+The war record which the county sustains for the part taken in the late
+Rebellion is a bright one, and well may it go down in history, covered
+with glory, to be cherished in the memory of the citizens and their
+posterity.
+
+When the first tocsin of that unholy war was sounded and the wires
+flashed the news over a startled country that Fort Sumter had fallen, it
+fired the patriotic heart of many a brave backwoodsman of the county; and
+when the call for the three months' volunteers came, he said, "My country
+has been assailed, I will go and help defend her." And within a few days
+a company had been raised, officered, equipped, and was on its way to the
+seat of war; this was Company G of the 14th Regiment Ohio Volunteer
+Infantry.
+
+Its officers were John S. Snook, Captain; Alfred M. Russell, 1st
+Lieutenant; and John Crosson, 2nd Lieutenant. The company served bravely
+with its regiment in the campaign of Western Virginia, and participated
+in the engagements of Philippi, and Carrick's Ford. War-stained and weary
+it returned home in the early part of July, and when disbanded many of
+its members soon re-enlisted in other regiments that were forming.
+
+The first company in the county organized for the three year's service
+was Company F of the 38th Regiment Ohio Volunteer Infantry.
+
+It was recruited during the Summer of 1861, and its first officers were
+John H. Adams, Captain; John Crosson, 1st Lieutenant; and E. W. Gleason,
+2nd Lieutenant.
+
+In the latter part of August it rendezvoused with the regiment in camp,
+at Defiance, and on the 8th of September started for Camp Dennison, and
+was soon in Kentucky, doing gallant service on the "tented field." It
+veteranized in 1863, and served until the close of the war.
+
+In the Fall of 1861 Captain P. H. Mooney recruited Company "C" of the
+68th Ohio Volunteer Infantry. J. C. Banks was elected 1st Lieutenant, and
+George Kniss, 2d Lieutenant. It joined the regiment at Camp Latty, near
+Napoleon, in December, and in a few weeks was sent to the front. It
+served in the Western Army, veteranized, took part in some of the
+hardest fought battles of the war, and was mustered out of service in
+1865.
+
+When the 14th Regiment was organized for the three years' service,
+Company "G" was raised in the county for it. William Eckles was
+commissioned Captain, W. C. Crawford, 1st Lieutenant, and Henry B.
+Ferguson, 2d Lieutenant. It veteranized, fought gallantly in the Army of
+the West, until mustered out at the close of the war.
+
+The fourth company organized in the county for the three years' service
+was Company "I," of the 100th Regiment Ohio Volunteer Infantry. The
+company was recruited by Emanuel Kaufman, who was elected Captain, with
+Dennison S. Hughes, 1st Lieutenant, and Joseph S. Champion, for 2d
+Lieutenant. This company, also, did noble service until their country
+needed their services no longer.
+
+In the Spring of 1863, the 42d Battalion Ohio National Guards, consisting
+of Companies "A," "B" and "C," was organized in the county and commanded
+by Major Andrew P. Meng.
+
+In April, 1864, the battalion was called into active service, and
+rendezvoused at Antwerp, May 2d, drilled for a day or two, and was sent
+home with orders to report again for duty on the 10th of that month.
+
+The 10th came, when the battalion reported as ordered, and was soon on
+its way to serve the General Government for the period of 100 days.
+
+At Toledo it was found that the battalion did not have three maximum
+companies, and Company "C" was consolidated with companies "A" and "B."
+
+With these two companies, the battalion proceeded to Columbus, Ohio, and
+were ordered to Camp Chase, four miles west of that city.
+
+Here it was consolidated with the 32d Battalion, from Logan county, and
+one company from Montgomery county, Ohio; and became Companies "A" and
+"H" of the 132d Regiment Ohio National Guards, and was mustered into the
+United States service. The officers of Company "A" were John Shirley,
+Captain; F. S. Cable, 1st, and Peter Snook, 2d Lieutenant; of Company
+"H," Captain, B. F. H. Hankins, and E. H. Day, 1st and William Good, 2d
+Lieutenant.
+
+The regiment was sent to the army of the Potomac, was attached to the 2d
+Brigade, 2d Division, of the 18th Army Corps, and did honorable service
+in the trenches around Petersburg, until its expiration of term. The
+regiment was mustered out of service September 10, 1864.
+
+Besides these companies that were organized in the county, many enlisted
+promiscuously in the companies of other counties, so that at one time
+during the war scarcely a "corporal's guard" was left in the county.
+
+Then, let the heart of every ex-soldier who may read this history swell
+with emotions of pride when he remembers that in the Great Rebellion he
+represented a county that, according to its population, sent more
+soldiers than any other county in the State of Ohio. And remembering
+this, may the tender teardrop fall to the memory of their gallant
+comrades, who rallying around the flag of liberty, laid down their noble
+lives on the altar of their country.
 
 ---
 
