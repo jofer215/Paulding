@@ -4,10 +4,12 @@ description: >-
   and research links about Paulding County, Ohio.
 
 # GitHub Pages serving info — update these if you fork/rename the repo.
+# NOTE: baseurl must match the repo name's exact case — GitHub Pages
+# project site URLs are case-sensitive.
 url: "https://jofer215.github.io"
-baseurl: "/paulding"
+baseurl: "/Paulding"
 
-repository: jofer215/paulding
+repository: jofer215/Paulding
 
 # Controlled vocabulary used for filtering. Keep in sync with _data/eras.yml
 # and the "type" values documented in CONTRIBUTING.md.
