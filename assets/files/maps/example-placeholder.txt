@@ -1,3 +1,0 @@
-This is a placeholder for a scanned map file (e.g. example-placeholder.jpg).
-Replace this file with a real scan and update the `file:` path in the
-corresponding _items entry. See CONTRIBUTING.md for details.
