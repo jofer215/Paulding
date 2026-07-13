@@ -3,10 +3,10 @@ title: "History of Paulding County, Ohio (Historical Hand-Atlas, 1882)"
 type: document
 era: 1880-1920
 date: 1882-01-01
-description: "Prof. Everett A. Budd's county history essay from the 1882 Historical Hand-Atlas, covering county statistics, geography, early settlement of the Maumee Valley, soil and timber, newspaper history, manufacturing industries, county officers, and streams."
+description: "Prof. Everett A. Budd's county history essay from the 1882 Historical Hand-Atlas, covering county statistics, geography, formation and county seats, early settlement of the Maumee Valley, soil and timber, newspaper history, manufacturing industries, county officers, and streams."
 source: "Prof. Everett A. Budd, in Historical Hand-Atlas: History of Northwestern Ohio and History of Paulding County, Ohio, H. H. Hardesty & Co., Publishers, Chicago and Toledo, 1882"
 rights: "Public domain (published 1882)."
-tags: [1882, historical hand-atlas, county history, statistics, geography, settlement, maumee valley, soil, timber, black swamp, newspapers, press, manufacturing, iron furnace, labor, county officers, streams, drainage]
+tags: [1882, historical hand-atlas, county history, statistics, geography, settlement, maumee valley, soil, timber, black swamp, newspapers, press, manufacturing, iron furnace, labor, county officers, streams, drainage, formation, county seat, new rochester, charloe]
 ---
 
 *History of Paulding County, by Prof. Everett A. Budd, as printed in the
@@ -422,6 +422,97 @@ distance in the county.
 The streams are all of a sluggish nature, and have a winding course
 through wooded land, much of which, in the Spring, is covered with
 surface water and is slowly drained.
+
+## Formation, Organization and Extent
+
+The Indians of Northwestern Ohio, having ceded their lands to the United
+States, the Legislature of that State, by an act of February 12, 1820,
+proceeded to divided the newly acquired territory into counties, of which
+Paulding county is one, and dates its formation from the
+above-mentioned year. The county was named in honor of John Paulding, a
+native of Peekskill, New York, and one of the captors of the brave but
+unfortunate Andrew.
+
+The base line from which the surveys of the public lands were made was
+established in May, 1819, by Sylvanus Bourne.
+
+The township lines were established in 1820, by Alexander Holmes, Samuel
+Holmes and others; and in 1821-22 the townships were subdivided into
+sections by James W. Riley and his assistants.
+
+The county of Williams was organized February 2, 1824, and Paulding
+county was attached to it for judicial purposes, until its own
+organization in 1839. On March the 4th, 1815, by an act of the Ohio
+Legislature, the county of Defiance was formed. Its territory was
+composed of eight townships taken from Williams county, three from
+Henry, and a half township from Paulding. The formation of this new
+county reduced Paulding to its present shape, which, were it not for this
+half township taken from its northeastern corner, would be a rectangle,
+extending east and west, twenty-four miles in length, and eighteen in
+width. Its present boundaries embrace ten full townships, six miles
+square, and Emerald township, containing thirty-two sections, and
+Auglaize township, containing twenty-two; in all an area of 416 square
+miles.
+
+## First Court and County Seats
+
+Following the organization of the county, the first Associate Judges,
+Nathan Eaton, Gilman C. Mudgett and John Hudson, met in the Fall of 1839,
+and appointed H. N. Curtis Clerk, pro tem, and Andrew J. Smith, Sheriff.
+The first court was held in the Spring of 1840, at the village of New
+Rochester, with Hon. Emery D. Potter as the Presiding Judge. The writer
+has no means of giving a synopsis of the business transacted at that
+court, as the records have not been preserved. The village was situated
+on the south bank of the Maumee, about a mile north of the present
+village of Cecil. It was at that time the most flourishing place in the
+county, containing about thirty or forty families, three hotels, three
+store-rooms, two blacksmith shops, two tailor shops, and was passed by
+daily stages that ran on a route from Toledo to Fort Wayne. But now its
+buildings have rotted away, its once busy streets have become deserted,
+and the cereals are grown upon its sunny slopes; naught but an old
+moldering schoolhouse remains to mark the location of Paulding county's
+first place of transacting county business.
+
+From New Rochester the county seat was established at Charloe, and the
+court and county business removed to that place in the year of 1841. The
+village was laid out by Benjamin F. Hollister, and was pleasantly located
+on the left bank of the Big Auglaize. A neat, commodious brick court
+house was erected, with county offices below and court room above. It is
+yet standing, but in a dilapidated and decaying condition.
+
+Some of the early settlers of Charloe were John W. Ayres, G. H. Philips,
+John H. Taylor, A. H. Palmer, and the Hankins and Kingery families. Its
+site was that of an old Indian town, where Oquanoxa, an Indian chief,
+lived with about six hundred Indians (a portion of the Ottawa tribe),
+before they were removed beyond the Mississippi. Charloe's location is a
+beautiful one, its scenery is picturesque and grand, and at one time it
+was a busy and enterprising village, but, like New Rochester, when shorn
+of its county-seat honors, the star of its destiny went down, and decay
+was imprinted upon its bosom; many of its first buildings have crumbled
+to dust and only a few families remain to tell the story of its former
+greatness.
+
+Paulding, the third and present county-seat of the county, was laid out
+by George March, August 10, 1850; Ezra J. Smith, surveyor. It is located
+on the left bank of Flat Rock, or Crooked Creek, one and a half miles
+north of the geographical center of the county. By a special act of
+legislature the county-seat was located there in 1851, and the county
+business was removed from Charloe in the Spring of that same year. The
+site was selected in consequence of its central position. At first it
+was in the midst of a heavy forest and almost without roads or
+communication with the "outer world." Many of its first county officers
+lived in log cabins. Its courthouse was a hastily constructed two story
+frame and was burned down January 2, 1868. It was supplanted soon after
+with a neat one-story frame in which the courts are still held.
+
+The jail was constructed of hewn logs, and was used until 1876, when a
+large substantial brick one was erected. The county offices are in a
+brick building erected for that purpose.
+
+Paulding has a population of 800, and is fast taking rank as a
+manufacturing town; if no withering blights fall upon it as upon the
+other county-seats its future will be full of hope, bright and
+promising, even as it is at the present writing.
 
 ---
 
