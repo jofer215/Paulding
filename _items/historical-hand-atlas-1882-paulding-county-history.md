@@ -3,10 +3,10 @@ title: "History of Paulding County, Ohio (Historical Hand-Atlas, 1882)"
 type: document
 era: 1880-1920
 date: 1882-01-01
-description: "Prof. Everett A. Budd's county history essay from the 1882 Historical Hand-Atlas, covering county statistics, geography, and the early European and American settlement of the Maumee Valley region leading up to Paulding County."
+description: "Prof. Everett A. Budd's county history essay from the 1882 Historical Hand-Atlas, covering county statistics, geography, early settlement of the Maumee Valley, and the county's soil and timber."
 source: "Prof. Everett A. Budd, in Historical Hand-Atlas: History of Northwestern Ohio and History of Paulding County, Ohio, H. H. Hardesty & Co., Publishers, Chicago and Toledo, 1882"
 rights: "Public domain (published 1882)."
-tags: [1882, historical hand-atlas, county history, statistics, geography, settlement, maumee valley]
+tags: [1882, historical hand-atlas, county history, statistics, geography, settlement, maumee valley, soil, timber, black swamp]
 ---
 
 *History of Paulding County, by Prof. Everett A. Budd, as printed in the
@@ -122,6 +122,46 @@ The bright rays of civilization pierced the smoke of this desolation, and
 served as beacon lights to attract the attention and guide the daring
 frontiersman into the country, and the military roads of this conquering
 army became the routes and highways over which came the early settlers.
+
+## Soil and Timber
+
+The county is wholly situated in the "Black Swamp," and the soil is
+characteristic of that well-known region. It is in the most part clayey,
+if not clay.
+
+Large boulders and stones are not common on the surface, but are found in
+the river beds. A finely laminated clay is shown along the banks of the
+Maumee, which at some points in the county reaches the depth of ten feet.
+This forms the top of the drift, and gives character to the soil. At
+other points in the county this laminated structure is wanting, and the
+usual amount of gravel stones, and even boulders, are embraced in the
+soil. In some parts of the county, particularly in the eastern part,
+there are ridges of sand, which have an excellent black soil, and is very
+easily tilled. In fact, there is scarcely an acre of ground in the county
+but what is susceptible of cultivation, and wherever the forests have
+been cleared away, and the "stubborn glebe" broken by the plow, it has
+yielded a rich harvest to the worthy husbandman.
+
+The county in its natural state was very heavily timbered; and, as yet,
+contains extensive tracts of timber land. Among the various species that
+it embraces may be mentioned the white, red, shingle, chestnut, pin and
+burr oak; the black, white, blue and prickly ash; the beech, and the
+water beech; the elm, and the slippery elm; cottonwood; soft, and sugar
+maple; black walnut, hickory, sycamore, basswood, aspen, black cherry,
+mulberry, ironwood, flowering dogwood, buckeye, wild plum, great-toothed
+poplar, thorn, honey locust, pawpaw, wahoo, hackberry, judas tree, apple
+and June berry.
+
+In the early settlements of the county much valuable timber was destroyed
+in the clearing of farms, owing to the want of market. Large and valuable
+oaks and poplars were wantonly cut down by hunters in quest of raccoon.
+It seems now like a pity that such should have been the case, but at that
+time, a "coon-skin" was worth more than a dozen poplars, however proudly
+they might wave their branches in the forest breeze. Large quantities of
+oak staves have been made in the county, and ship timber to the value of
+thousands of dollars are annually taken from its forests. The black
+walnut and poplar have become almost extinct, but cottonwood and elm yet
+remain in apparently inexhaustible quantities.
 
 ---
 
