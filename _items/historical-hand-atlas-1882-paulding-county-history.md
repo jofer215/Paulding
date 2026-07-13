@@ -3,10 +3,10 @@ title: "History of Paulding County, Ohio (Historical Hand-Atlas, 1882)"
 type: document
 era: 1880-1920
 date: 1882-01-01
-description: "Prof. Everett A. Budd's county history essay from the 1882 Historical Hand-Atlas, covering county statistics, geography, formation and county seats, early settlement of the Maumee Valley, soil and timber, newspaper history, manufacturing industries, county officers, streams, and Civil War military service."
+description: "Prof. Everett A. Budd's county history essay from the 1882 Historical Hand-Atlas, covering county statistics, geography, formation and county seats, early settlers, soil and timber, newspaper history, manufacturing industries, county officers, streams, and Civil War military service."
 source: "Prof. Everett A. Budd, in Historical Hand-Atlas: History of Northwestern Ohio and History of Paulding County, Ohio, H. H. Hardesty & Co., Publishers, Chicago and Toledo, 1882"
 rights: "Public domain (published 1882)."
-tags: [1882, historical hand-atlas, county history, statistics, geography, settlement, maumee valley, soil, timber, black swamp, newspapers, press, manufacturing, iron furnace, labor, county officers, streams, drainage, formation, county seat, new rochester, charloe, civil war, war record, ohio volunteer infantry]
+tags: [1882, historical hand-atlas, county history, statistics, geography, settlement, maumee valley, soil, timber, black swamp, newspapers, press, manufacturing, iron furnace, labor, county officers, streams, drainage, formation, county seat, new rochester, charloe, civil war, war record, ohio volunteer infantry, early settlers, pioneers]
 ---
 
 *History of Paulding County, by Prof. Everett A. Budd, as printed in the
@@ -612,9 +612,100 @@ this, may the tender teardrop fall to the memory of their gallant
 comrades, who rallying around the flag of liberty, laid down their noble
 lives on the altar of their country.
 
+## The Early Settlers
+
+As is the case with the first settlements of almost every country, the
+earliest settlers of Paulding county planted their homes along the banks
+of its streams. On the rich bottom farms that lie along the "dark
+Auglaize" are yet to be found the sites where were built the cabins of
+the Careys, the Hudsons, the Shirleys, the Romines and the Shroufes.
+Along the Maumee came the Banks and Reynolds families; also the Gordons,
+the Runyans, the Murphys, the Applegates, and General H. N. Curtis. On
+the Little Auglaize the Harrells, the Mellingers, and the Curtises; on
+Blue Creek the Moss brothers, the Reeds, the Barnhills, and the family of
+Robert Hakes; while on Flat Rock or Crooked Creek, the Woodcocks, the
+Malotts, and the Wentworths, were the first to tread the forest paths,
+and to swing the "settlers' echoing ax."
+
+The first white settlement made in Paulding county was on Section 19, in
+Auglaize township, by Isaac Carey, in the Autumn of 1819. He came from
+Miami county, Ohio, by the route which had been opened by General Wayne
+to Defiance, thence up the Auglaize. The farm upon which he settled is
+situated on the east side of the river, about a half a mile from the
+present site of the village of Junction, and is now owned by Jacob Davis.
+Upon this farm, January 21, 1826, was born David Clark Carey, who was the
+first white child to open its eyes within the limits of the county. He
+now resides at the village of Oakwood, a few miles south of his
+birth-place, and is a very worthy citizen, having held the office of
+Probate Judge, and other offices of public trust.
+
+Shadrack Hudson improved his farm on the same section in the same year.
+Nathan Shirley came in 1823, and Thomas Romine in 1825.
+
+The settlements along the Maumee were begun in the year of 1825. Denison
+Hughes, William Banks, David Applegate, William Gordon, Reason V.
+Spurrier, and General H. N. Curtis came to the county about that year,
+and may be regarded as the first settlers of its northern part. Of these,
+the Banks and Gordon families came from Cincinnati; their route lay along
+the military roads that ran up the Miami to its head waters; then
+crossing over to the head waters of the St. Mary's river, they loaded
+their household goods and wagons into pirogues and came down that river
+to Ft. Wayne, thence down the Maumee to their respective places of
+landing, which will be fully described in the township histories of this
+work. Their horses were unharnessed and driven across the country along
+the winding Indian trails that were not sufficiently wide to permit the
+passage of vehicles.
+
+Joseph Mellinger commenced the Little Auglaize settlement in the year of
+1828, and was shortly after followed by William Harrell, Benjamin Kniss
+and Dimmit Mackrill. These settlers reached the county from the southern
+Ohio settlements by crossing the water-shed which extends east and west
+through the State, and striking the head-waters of the Blanchard, thence
+down that stream to its confluence with the Big Auglaize.
+
+In 1835, the Moss Brothers, natives of England, commenced improving farms
+on the banks of Blue Creek, while farther up that stream, about the same
+year, Robert Barnhill and Joseph Reed built their log cabins and
+commenced battling with the forest.
+
+In 1835 Thomas Wentworth began the Flat Rock settlement. His nativity was
+the State of Maine, and with his family he left the pine-covered hills of
+that State to find a home in Paulding county. He embarked upon a
+coasting vessel and sailed down the Atlantic to New York, and reached
+Buffalo by way of Hudson river and the New York and Erie canal, thence on
+lake to Toledo, and up the Maumee to New Rochester, near the present site
+of Cecil. Here he rested with his family for a year, then cut a road
+through the dark forest ten miles to the south and commenced the
+improvement of a farm near where stands the village of Malottville.
+
+Thus we have shown our readers the route by which the first settlers
+reached the county; also their names, date of entry, and place of
+location. It now only remains for us to pay to them that tribute which is
+their due; and would that our unskillful pen was equal to such a task.
+They were men of integrity, hardy and brave, and whether they were
+clearing away the forest, engaged in the hand-mill in procuring food for
+their families, or chasing the bounding deer for the same purpose, they
+showed a fortitude and determination of spirit which is worthy of
+imitation. But they have passed away, and they who look upon their last
+resting places may say, here rest the great and good; here they repose
+after their generous toil.
+
+A sacred band they were, and now they take their sleep together, while
+every new-born Spring that is ushered in, comes with its early flowers to
+deck their graves. Theirs is no vulgar sepulchre — although in some
+instances the green sod is their only monument; yet it tells a nobler
+history than pillared piles, or the eternal pyramids.
+
+Their descendants belong to the first families of the county, and with
+sadness they tread the hallowed ground that holds the consecrated bones
+of their ancestors. Touch not, then, the ancient elms that bend their
+shade over the lowly graves of the pioneers of Paulding county, for their
+shadows fall upon the resting places of those who need no columns
+pointing upward to tell us that heaven is their home.
+
 ---
 
 *This transcription is a work in progress — the original essay continues
-beyond this excerpt. If you have access to later sections (early
-settlement, township formation, notable residents and institutions), they
-can be appended here or added as separate document entries.*
+beyond this excerpt. If you have access to later sections (township
+histories, notable residents and institutions), they can be appended here
+or added as separate document entries.*
