@@ -54,7 +54,15 @@ browse.html         Search/filter across all materials at once
 
 ## License / rights
 
-This repository's code (layouts, styles, scripts) is free to reuse. Historical
-materials themselves retain whatever copyright or public-domain status is
-noted on each item's page — see that item's "Rights & source" note before
-reusing scanned content.
+This repository bundles two different things with two different licensing
+situations:
+
+- **The site's code** — layouts, includes, CSS, JS, and configuration — is
+  open source under the [MIT License](LICENSE). Fork it, reuse it, adapt it
+  for your own county's archive.
+- **The archived historical materials** (`_items/`, `assets/files/`) are
+  *not* covered by that license. Rights vary item by item — some are public
+  domain, some are reproduced with the source organization's permission,
+  some have unconfirmed status — and each item's own `rights` front-matter
+  field documents its specific situation. Check that note before reusing any
+  scanned content, transcription, or newsletter.
