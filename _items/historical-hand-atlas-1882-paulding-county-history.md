@@ -3,10 +3,10 @@ title: "History of Paulding County, Ohio (Historical Hand-Atlas, 1882)"
 type: document
 era: 1880-1920
 date: 1882-01-01
-description: "Prof. Everett A. Budd's county history essay from the 1882 Historical Hand-Atlas, covering county statistics, geography, early settlement of the Maumee Valley, soil and timber, newspaper history, and manufacturing industries."
+description: "Prof. Everett A. Budd's county history essay from the 1882 Historical Hand-Atlas, covering county statistics, geography, early settlement of the Maumee Valley, soil and timber, newspaper history, manufacturing industries, county officers, and streams."
 source: "Prof. Everett A. Budd, in Historical Hand-Atlas: History of Northwestern Ohio and History of Paulding County, Ohio, H. H. Hardesty & Co., Publishers, Chicago and Toledo, 1882"
 rights: "Public domain (published 1882)."
-tags: [1882, historical hand-atlas, county history, statistics, geography, settlement, maumee valley, soil, timber, black swamp, newspapers, press, manufacturing, iron furnace, labor]
+tags: [1882, historical hand-atlas, county history, statistics, geography, settlement, maumee valley, soil, timber, black swamp, newspapers, press, manufacturing, iron furnace, labor, county officers, streams, drainage]
 ---
 
 *History of Paulding County, by Prof. Everett A. Budd, as printed in the
@@ -341,6 +341,87 @@ Extensive stave factories are located at Antwerp, Junction, Paulding,
 Fort Brown and Timberville. Many sawmills are located in every part of
 the county, and their lumber products form an important article of
 export.
+
+## County Officers
+
+It will, no doubt, be very interesting to the readers of this work to
+know the names of those who have held official honors in the county.
+Believing such, the writer has with some difficulty obtained them.
+
+The first Auditor of the county was Andrew Clemmer; then, in the
+following order came ——- Palmer, A. S. Latty, B. L. Wentworth, Richard S.
+Banks, Isaiah Richards, V. V. Pursell, William C. Means, Charles Hakes and
+Robert S. Murphy.
+
+The first Probate Judge was Ezra J. Smith, followed by Fielding S. Cable,
+who held the office for ten consecutive years; Lewis S. Gordon, by
+appointment; David C. Carey, Calvin L. Noble and Benjamin L. Wentworth.
+
+The first Sheriff was Andrew J. Smith, followed by Ephraim Burwell, which
+two obtained the office by appointment.
+
+Matthew Fleming was the first elected Sheriff of the county, and was
+succeeded by William K. Daggett, Thomas C. Banks, John Crosson, I.
+Richards, Freeborn, T. Mellinger; (John Brakefield, Coroner, served four
+months as Sheriff); Andrew P. Meng, Jesper A. Fergerson, Hiram M. Ayres
+and Samuel J. Tate.
+
+The first Clerk was Horatio N. Curtis, and his successors have been
+Andrew J. Taylor, John Lincoln, James M. Russell, Robert Russell, Samuel
+Means, Orlando Russell, Orsin D. Fuller, and Joseph B. Cromley.
+
+The Treasurers of the county have been William Gordon, Richard S. Banks,
+James M. Russell, Ezra J. Smith, Isaiah Richards, Lewis Gordon, Peter
+Hilty, Frederick Young and Samuel G. Robertson.
+
+The first Recorder of the county was General Horatio N. Curtis, and after
+him came Andrew J. Taylor, H. A. Shaffer, A. P. Seely, William T. French,
+Lewis S. Gordon, Charles Hakes and Isaiah Richards.
+
+The Prosecuting Attorneys of the county have been John W. Ayres, John S.
+Snook, D. N. Osborn (by appointment); A. H. Selden, Thomas B. Holland and
+Medary D. Mann.
+
+The first Board of Commissioners was —— Shoufe, John Kingery and Thomas
+Banks, and the following are names of men who have since held the office:
+Thomas Wentworth, John Manson, sen., John Musselman, John Stair, Samuel
+Forder, Hubert Naveau, Henry Oswalt, John Hardesty, G. W. Morris (by
+appointment); L. M. Barnes, Alonzo H. Seldon, Theodore G. Merchant, Co
+Gordon, John D. Carlton, Alexander Brown, Wilson N. Snook, Joseph Bowyer
+(died in office); Thomas Chester, Francis M. Wade, George W. Sowers and
+George Gusler.
+
+The above may be said to have been the representative men of the county.
+Many of them are yet its most honored citizens. Some have died, and their
+moldering bones are resting beneath its soil; while a few, swept by the
+tide of emigration, have found homes in the "Far West."
+
+## National Drainage — Names of Streams
+
+The principal stream of the county is the Maumee. It is formed by the
+uniting of the St. Marys and St. Joseph at the city of Ft. Wayne; and
+after bursting through Lake Erie's first beach, takes a northeasterly
+course and cuts off the northwest corner of the county.
+
+The next stream in size is the Big Auglaize. It enters the county on the
+east side and takes first a northwesterly and then a northeasterly
+course, forming a curve which cuts off the northeast corner of the
+county. The bed of this stream lies a few miles west of Lake Erie's
+second beach, and to which the course of the river is attributable.
+
+Crooked Creek finds an entrance into the county near its southwest
+corner, flows a northeasterly course through the central part, and unites
+with the Auglaize about one mile south of the village of Junction. A few
+miles south of Crooked Creek is Blue Creek, also flowing northeasterly
+and uniting with the Auglaize. The Little Auglaize enters the county near
+the southeast corner, flows a southerly course and discharges its waters
+into the Big Auglaize, at Old Fort Brown. Dog Creek and Prairie Creek are
+small western tributaries of the Little Auglaize, and flow but a short
+distance in the county.
+
+The streams are all of a sluggish nature, and have a winding course
+through wooded land, much of which, in the Spring, is covered with
+surface water and is slowly drained.
 
 ---
 
