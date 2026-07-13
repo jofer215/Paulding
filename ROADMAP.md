@@ -93,22 +93,29 @@ with no caption or `_items/` entry yet:
 - `562407_282171568534864_232284243523597_666029_676020249_n.jpg`
 - `563763_282171041868250_232284243523597_666027_1270930344_n.jpg`
 - `166979_242243802527641_232284243523597_558479_782711726_n.jpg`
+- `335205_233073403444681_232284243523597_538312_1929935758_o.jpg`
+- `pauldingcountycourthouse-2jpg.jpg` (an old export filename, not yet matched to a viewed photo)
 
-That's 25 files (24 unviewed + 1 that failed to load) — real 1900s-era
-photos most likely, just not yet captioned into `_items/` entries. Next
-pass: view each, caption what's identifiable, and either create entries
-or flag as unidentified "mystery photos" like the museum newsletters do.
+That's 27 files — real 1900s-era photos most likely, just not yet
+captioned into `_items/` entries. Next pass: view each, caption what's
+identifiable, and either create entries or flag as unidentified
+"mystery photos" like the museum newsletters do.
+
+Note: your July 13 raw upload landed in the repo as two separate
+commits (one pulled in directly during review, one pushed straight to
+GitHub afterward), so this list was re-deduplicated against both. A
+handful of hash-prefixed duplicate filenames from the second commit
+were removed; the plain-CDN-name copy above is what's kept in each
+case.
 
 **Already deleted (generic stock photos, not historical content):**
 - `alternate-sidebar1.jpg` (notebook/coffee stock photo, from your GitHub upload)
 - `goranhero.jpg` (laptop/headphones stock photo, sent directly in chat — never made it into the repo)
 
 **Already deleted (exact or content duplicates):**
-47 exact-duplicate files (same photo under both a Facebook-CDN filename
-and a clean filename) were removed, keeping one copy of each. Two
-near-duplicates (different scans of the same original photo) were also
-removed: one duplicate of the early courthouse postcard, one duplicate
-of the "Horse and Carriage, November 1905" photo.
+100 duplicate files total across both upload commits (same photo under
+a hash-prefixed, Facebook-CDN, or "cropped-" filename alongside a clean
+or already-cataloged filename) were removed, keeping one copy of each.
 
 ## Still waiting on source material
 
