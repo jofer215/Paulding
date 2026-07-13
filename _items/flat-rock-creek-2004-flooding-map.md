@@ -6,7 +6,7 @@ date: 2004-06-15
 description: "A county map marking photograph locations documenting June 15, 2004 flooding along Flat Rock Creek, prepared by then-County Engineer Mark R. Stockman."
 source: "Mark R. Stockman, P.E., P.S., Paulding County Engineer, 2004."
 rights: "Public county government document; rights status not otherwise confirmed."
-file: /assets/files/documents/2004flatrockpicture.jpg
+file: /assets/files/maps/2004flatrockpicture.jpg
 tags: [flat rock creek, flooding, 2004, county engineer, mark stockman]
 ---
 

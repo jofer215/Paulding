@@ -6,7 +6,7 @@ date: 1996-07-14
 description: "A crop circle discovered near Paulding in July 1996 drew regional media attention and became a local sensation, covered in a series of Crescent-News articles."
 source: "Jim Langham and staff/wire reports, The Crescent-News, July 1996; compiled at pauldinghistory.wordpress.com"
 rights: "Newspaper clippings are reproduced from The Crescent-News (1996); copyright likely remains with the newspaper. Treat as excerpts pending confirmation of reuse rights."
-file: /assets/files/documents/1996-crop-circle-was-it-aliens-or-hoax-clipping.jpg
+file: /assets/files/articles/1996-crop-circle-was-it-aliens-or-hoax-clipping.jpg
 tags: [crop circle, 1996, oddities, crescent-news, local news, popular culture]
 ---
 
@@ -125,7 +125,7 @@ talking. That's a pretty neat thing in itself."
 
 ## "Paulding Family Deals with 'Circle-Mania'"
 
-![Clipping: Paulding family deals with 'circle-mania']({{ "/assets/files/documents/1996-crop-circle-paulding-family-circle-mania-clipping.jpg" | relative_url }})
+![Clipping: Paulding family deals with 'circle-mania']({{ "/assets/files/articles/1996-crop-circle-paulding-family-circle-mania-clipping.jpg" | relative_url }})
 
 By Jim Langham, Staff Writer — *The Crescent-News*, Sunday, July 14, 1996 (Lifestyle, C5)
 
@@ -207,7 +207,7 @@ shapes, you have to stop and make turns. But circles go on forever."
 
 ## "Family Attempts to Be Fair and Generous to the Public"
 
-![Clipping: Family attempts to be fair and generous to the public]({{ "/assets/files/documents/1996-crop-circle-family-attempts-fair-generous-clipping.jpg" | relative_url }})
+![Clipping: Family attempts to be fair and generous to the public]({{ "/assets/files/articles/1996-crop-circle-family-attempts-fair-generous-clipping.jpg" | relative_url }})
 
 By Jim Langham, Staff Writer — *The Crescent-News*, July 1996
 
@@ -313,7 +313,7 @@ needless ridicule, but God doesn't give us more than we can handle."
 
 ## "Crop Circle a Multi-State Draw"
 
-![Clipping: visitors have come to rural Paulding from as far away as Arizona]({{ "/assets/files/documents/1996-crop-circle-multi-state-draw-clipping.jpg" | relative_url }})
+![Clipping: visitors have come to rural Paulding from as far away as Arizona]({{ "/assets/files/articles/1996-crop-circle-multi-state-draw-clipping.jpg" | relative_url }})
 
 By Jim Langham, Staff Writer — *The Crescent-News*, July 1996
 
@@ -414,7 +414,7 @@ they wouldn't have if this hadn't been here."
 
 ## "Timmerman Asks Possible Hoaxers for Explanation"
 
-![Clipping: Timmerman asks possible hoaxers for explanation]({{ "/assets/files/documents/1996-crop-circle-timmerman-asks-hoaxers-clipping.jpg" | relative_url }})
+![Clipping: Timmerman asks possible hoaxers for explanation]({{ "/assets/files/articles/1996-crop-circle-timmerman-asks-hoaxers-clipping.jpg" | relative_url }})
 
 By Jim Langham, Staff Writer — *The Crescent-News*, July 1996
 
@@ -478,7 +478,7 @@ Ohio 43512.
 
 ## "Jury Is Still Out"
 
-![Clipping: Jury is still out — evidence leans toward local crop circle being the work of pranksters]({{ "/assets/files/documents/1996-crop-circle-jury-is-still-out-clipping.jpg" | relative_url }})
+![Clipping: Jury is still out — evidence leans toward local crop circle being the work of pranksters]({{ "/assets/files/articles/1996-crop-circle-jury-is-still-out-clipping.jpg" | relative_url }})
 
 From staff and wire reports — *The Crescent-News*, July 1996
 
@@ -629,7 +629,7 @@ July 4. Reproduced as printed.*
 
 ## "Crop Circle T-Shirts on Sale, Proceeds Will Go to Hospital"
 
-![Clipping: Jackie Arend holds up one of the crop circle shirts]({{ "/assets/files/documents/1996-crop-circle-tshirts-on-sale-clipping.jpg" | relative_url }})
+![Clipping: Jackie Arend holds up one of the crop circle shirts]({{ "/assets/files/articles/1996-crop-circle-tshirts-on-sale-clipping.jpg" | relative_url }})
 
 By Jim Langham, Staff Writer — *The Crescent-News*, July 1996
 
@@ -718,7 +718,7 @@ because of a crop circle in one of our wheat fields."
 
 ## "'Significant Change' Seen in Wheat at Circle Site"
 
-![Clipping: 'Sightings' crew ready to film crop circle in Paulding County]({{ "/assets/files/documents/1996-crop-circle-significant-change-wheat-clipping.jpg" | relative_url }})
+![Clipping: 'Sightings' crew ready to film crop circle in Paulding County]({{ "/assets/files/articles/1996-crop-circle-significant-change-wheat-clipping.jpg" | relative_url }})
 
 By Jim Langham, Staff Writer — *The Crescent-News*, July 1996
 
@@ -817,7 +817,7 @@ here."
 
 ## "Teen Receives Some Reassurance"
 
-![Clipping: Dawn Sprunger examines wheat by the crop circle]({{ "/assets/files/documents/1996-crop-circle-teen-receives-reassurance-clipping.jpg" | relative_url }})
+![Clipping: Dawn Sprunger examines wheat by the crop circle]({{ "/assets/files/articles/1996-crop-circle-teen-receives-reassurance-clipping.jpg" | relative_url }})
 
 By Jim Langham, Staff Writer — *The Crescent-News*, July 1996
 
