@@ -9,6 +9,32 @@ The site is a static Jekyll site hosted on GitHub Pages, browsable at:
 
 **https://jofer215.github.io/Paulding/**
 
+## AI Disclosure
+
+This project was built with the help of Claude (Anthropic's AI model),
+working under a human's direction throughout. To be specific about who
+did what:
+
+- **A human researched, located, and sourced every historical item in
+  this archive** — scanned documents, old newsletters, photographs,
+  bibliographic references, and links to outside archives all came from
+  a human researcher's own collecting and reviewing, not from the AI
+  independently searching for material.
+- **Claude built the site itself** — the Jekyll structure, layouts,
+  styling, and the client-side filtering/search — and was also used to
+  process the source material the researcher provided: transcribing
+  scanned text, drafting item descriptions, cross-referencing entries,
+  and organizing everything into this repository's file structure.
+- **A human reviewed and approved every addition** before it was
+  committed, including flagging and holding back sensitive or unverified
+  material for further review (see [ROADMAP.md](ROADMAP.md)).
+
+In short: the history is human-researched; a substantial amount of the
+transcription, drafting, and all of the site engineering were
+AI-assisted. If you're citing material from this archive, cite the
+original historical source noted in that item's own metadata, not this
+project or its AI assistance.
+
 ## What's here
 
 - **Documents** — scanned deeds, meeting minutes, government records, and other primary sources
