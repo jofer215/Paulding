@@ -127,6 +127,13 @@ or already-cataloged filename) were removed, keeping one copy of each.
 - **"The Cider Mills"** — listed in Don H. Price's original 15-article
   table of contents but missing from the `pOG4823` scan. If a copy turns
   up, it belongs in `_items/paulding-countys-past-don-price.md`.
+- **Don H. Price's 1975 "History of Paulding, Ohio"** — currently just a
+  bibliographic `link` entry
+  ([`_items/history-of-paulding-ohio-price-1975.md`](_items/history-of-paulding-ohio-price-1975.md))
+  pointing at a used-book listing. This is almost certainly the "earlier
+  full history" Price refers to in `paulding-countys-past-don-price.md`
+  — if a copy turns up, it becomes a real `document` entry, and might
+  also be where "The Cider Mills" survives.
 - **Canal Towns Were Numerous, Parts One and Two** — Part Three is
   transcribed ([`_items/canal-towns-were-numerous-1922.md`](_items/canal-towns-were-numerous-1922.md)),
   but the earlier installments (referenced as having run in an October/
