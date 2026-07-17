@@ -9,10 +9,12 @@ rights: "Newspaper columns; rights status not otherwise confirmed."
 tags: [don h price, paulding progress, bicentennial, farm life, tile mills, paulding county fair, 1976]
 ---
 
-Don H. Price, author of an earlier full history of Paulding, followed it
-with this 15-part column series for the *Paulding Progress*'s 1976
-Bicentennial Section, intending readers to "cut them out of the paper and
-file them away with your book of Paulding past." One planned article,
+Don H. Price, author of an
+[earlier full history of Paulding]({{ "/archive/history-of-paulding-ohio-price-1975/" | relative_url }})
+(1975), followed it with this 15-part column series for the *Paulding
+Progress*'s 1976 Bicentennial Section, intending readers to "cut them out
+of the paper and file them away with your book of Paulding past." One
+planned article,
 **"The Cider Mills,"** does not appear to have survived in the scan this
 transcription is drawn from.
 
