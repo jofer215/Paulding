@@ -68,7 +68,9 @@ reservoir failed, a group of 200 men marching under a banner inscribed
 "NO COMPROMISE," blew a hole in the reservoir dike and destroyed three
 locks during the night of April 25, 1887. In response, a detachment of
 the State militia was dispatched, but the guilty parties were never
-identified. This event came to be known as the "Reservoir War."
+identified. This event came to be known as the "Reservoir War" — see
+[*The Reservoir War* by Jerett W. Godeke]({{ "/archive/the-reservoir-war-godeke-2023/" | relative_url }})
+for a full-length account.
 
 Lumbering and timber products were for years the leading industry in the
 County, but these resources were largely depleted by the late 1880s, as

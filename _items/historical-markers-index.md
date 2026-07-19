@@ -18,7 +18,9 @@ directions.
 Brown" markers on the Ohio Revolutionary Memorial Trail, and the 2020
 "Reservoir War" marker near Antwerp. Their listings are kept here as a
 record of what once stood, and in case anyone can confirm their current
-status or location.
+status or location. For a full-length account of the Reservoir War
+itself, see
+[*The Reservoir War* by Jerett W. Godeke]({{ "/archive/the-reservoir-war-godeke-2023/" | relative_url }}).
 
 ## Paulding
 
