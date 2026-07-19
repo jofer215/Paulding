@@ -170,9 +170,14 @@ or already-cataloged filename) were removed, keeping one copy of each.
   Currently just a bibliography `link` entry
   ([`_items/historical-atlas-paulding-county-1892.md`](_items/historical-atlas-paulding-county-1892.md)).
   **Update:** you now have the actual physical book in hand (O. Morrow
-  and F.W. Bashore). Photographing/scanning its pages would let this
-  become a real `document`/`map` entry with the actual plat maps and
-  landowner listings, instead of just a link to the WordPress PDF.
+  and F.W. Bashore) — specifically a 2016 facsimile reprint (Facsimile
+  Publisher, Delhi, India; ISBN 9789333408844PB) of the 1892 original.
+  Photographing/scanning its pages would let this become a real
+  `document`/`map` entry with the actual plat maps and landowner
+  listings, instead of just a link to the WordPress PDF. Note the
+  reprint publisher's own claim to the text is thin (it's a straight
+  facsimile of an 1892 public-domain work), so the underlying content
+  is almost certainly free to reproduce.
 - **"The Cider Mills"** — listed in Don H. Price's original 15-article
   table of contents but missing from the `pOG4823` scan. If a copy turns
   up, it belongs in `_items/paulding-countys-past-don-price.md`.
