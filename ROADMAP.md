@@ -18,6 +18,19 @@ go through it and research/build each one properly.
   relevant to the reported-missing "Charloe" HMdb marker already in
   `_items/historical-markers-index.md`, and to
   `_items/indigenous-peoples-of-paulding-county.md`.
+- **"The Firebugs of Northwest Ohio"** — M. A. Mimi Malcolm, self-published,
+  copyright 2016. ISBN-13 978-1535288187 / ISBN-10 1535288183. Cover
+  suggests arson/fire-related true crime or history; scope (regional
+  vs. Paulding-specific) not yet confirmed.
+- **"Civil War Stories of Northwest Ohio Heroes"** — photography and
+  narrative by Jim Mollenkopf, Lake of the Cat Publishing, Toledo,
+  Ohio, ©2002. ISBN 0-9665910-3-8, LCCN 2002111479. Regional Civil War
+  biographical sketches; may include Paulding County soldiers.
+- **"In Search of Our Past: Women of Northwest Ohio, Volume III"** —
+  published by the Women's History Committee of the Women Alive!
+  Coalition, Toledo, Ohio, 1992, dedicated to the 100th anniversary of
+  the YWCA. Nineteen biographical sketches of northwest Ohio women;
+  may include Paulding County subjects.
 
 ## Needs your review before publishing
 
