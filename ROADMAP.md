@@ -3,6 +3,22 @@
 Working notes on what's pending for this archive. Not part of the
 published site (see `_config.yml`'s `exclude:` list).
 
+## Books to research and build entries for
+
+Collecting titles first from photos you're sending; not yet built into
+`_items/` entries or verified against a build. Once the list is done,
+go through it and research/build each one properly.
+
+- **"Charloe: 'A Village by a Stream' — A Pictorial History"** — a
+  local pictorial history pamphlet, dated 1975 (title page also marked
+  "Nov. 9, 1975"), "In Memory of Charloe Peter, Last Indian Chief of
+  the Oquanoxas Reservation before 1820," Brown Township, Paulding
+  County, Ohio. No author/publisher visible in the photos sent. Likely
+  a local historical society or town-anniversary production. Directly
+  relevant to the reported-missing "Charloe" HMdb marker already in
+  `_items/historical-markers-index.md`, and to
+  `_items/indigenous-peoples-of-paulding-county.md`.
+
 ## Needs your review before publishing
 
 ### "Jim Powell" — HIGH PRIORITY, do not publish without reading first
