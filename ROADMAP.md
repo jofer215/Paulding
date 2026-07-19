@@ -36,13 +36,18 @@ go through it and research/build each one properly.
   2015. ISBN 978-1-62619-240-9 (paperback), LCCN 2013047439. Regional
   folklore/treasure-legend anecdotes; may include Paulding County
   material.
-- **"The Great Black Swamp III: Further Historical Tales of Northwest
-  Ohio"** — Jim Mollenkopf (same author as *Civil War Stories of
-  Northwest Ohio Heroes*, above), Lake of the Cat Publishing, Toledo,
-  Ohio, ©2008. ISBN 978-0-9665910-5-7, LCCN 2008903857. Third in a
-  series on the Great Black Swamp — directly relevant to this archive's
-  existing `_items/draining-the-great-black-swamp.md`. Worth checking
-  whether Mollenkopf's volumes I-II also exist and are relevant.
+- **The Great Black Swamp trilogy** — Jim Mollenkopf (same author as
+  *Civil War Stories of Northwest Ohio Heroes*, above), Lake of the Cat
+  Publishing, Toledo, Ohio. All three confirmed in hand:
+  - *The Great Black Swamp: Historical Tales of 19th-Century Northwest
+    Ohio* — ©1999. ISBN 978-0-9665910-1-9, LCCN 99-073706.
+  - *The Great Black Swamp II: MORE Historical Tales of Northwestern
+    Ohio* — ©2000. ISBN 978-0-9665910-2-6, LCCN 00-090673.
+  - *The Great Black Swamp III: Further Historical Tales of Northwest
+    Ohio* — ©2008. ISBN 978-0-9665910-5-7, LCCN 2008903857.
+  
+  Directly relevant to this archive's existing
+  `_items/draining-the-great-black-swamp.md`.
 
 ## Needs your review before publishing
 
