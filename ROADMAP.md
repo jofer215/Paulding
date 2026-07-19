@@ -77,36 +77,6 @@ go through it and research/build each one properly.
   relevant to the reported-missing "Charloe" HMdb marker already in
   `_items/historical-markers-index.md`, and to
   `_items/indigenous-peoples-of-paulding-county.md`.
-- **"The Firebugs of Northwest Ohio"** — M. A. Mimi Malcolm, self-published,
-  copyright 2016. ISBN-13 978-1535288187 / ISBN-10 1535288183. Cover
-  suggests arson/fire-related true crime or history; scope (regional
-  vs. Paulding-specific) not yet confirmed.
-- **"Civil War Stories of Northwest Ohio Heroes"** — photography and
-  narrative by Jim Mollenkopf, Lake of the Cat Publishing, Toledo,
-  Ohio, ©2002. ISBN 0-9665910-3-8, LCCN 2002111479. Regional Civil War
-  biographical sketches; may include Paulding County soldiers.
-- **"In Search of Our Past: Women of Northwest Ohio, Volume III"** —
-  published by the Women's History Committee of the Women Alive!
-  Coalition, Toledo, Ohio, 1992, dedicated to the 100th anniversary of
-  the YWCA. Nineteen biographical sketches of northwest Ohio women;
-  may include Paulding County subjects.
-- **"Legends and Lost Treasure of Northern Ohio"** — Wendy Koile, The
-  History Press, Charleston, SC, first published 2014, second printing
-  2015. ISBN 978-1-62619-240-9 (paperback), LCCN 2013047439. Regional
-  folklore/treasure-legend anecdotes; may include Paulding County
-  material.
-- **The Great Black Swamp trilogy** — Jim Mollenkopf (same author as
-  *Civil War Stories of Northwest Ohio Heroes*, above), Lake of the Cat
-  Publishing, Toledo, Ohio. All three confirmed in hand:
-  - *The Great Black Swamp: Historical Tales of 19th-Century Northwest
-    Ohio* — ©1999. ISBN 978-0-9665910-1-9, LCCN 99-073706.
-  - *The Great Black Swamp II: MORE Historical Tales of Northwestern
-    Ohio* — ©2000. ISBN 978-0-9665910-2-6, LCCN 00-090673.
-  - *The Great Black Swamp III: Further Historical Tales of Northwest
-    Ohio* — ©2008. ISBN 978-0-9665910-5-7, LCCN 2008903857.
-  
-  Directly relevant to this archive's existing
-  `_items/draining-the-great-black-swamp.md`.
 - **"Paulding County Courthouse Centennial" booklet** — commemorative
   program for the courthouse centennial, June 20-21, 1986. Numbered
   copy (No. 689) with an embossed seal — looks like a limited-run
@@ -115,6 +85,44 @@ go through it and research/build each one properly.
   courthouse's 1888 completion
   (`_items/history-of-paulding-county-sheriffs-office.md`) and to
   [`_items/paulding-courthouse-front-view.md`](_items/paulding-courthouse-front-view.md).
+
+### TODO (you): check these regional books for actual Paulding content
+
+These five books/six volumes are regional (northwest/northern Ohio),
+not Paulding-specific by title, and web research couldn't confirm
+whether they actually cover Paulding County — these small regional
+press books don't have detailed tables of contents online. **Check
+each book's own index in the back for "Paulding" and county town names
+(Antwerp, Payne, Broughton, Oakwood, Melrose, Charloe, Grover Hill,
+Cecil, Latty, Junction).** If you find hits, photograph those pages
+(plus the index entry itself) and send them; if nothing turns up,
+we'll drop that book from the list.
+
+- **"The Firebugs of Northwest Ohio"** — M. A. Mimi Malcolm,
+  self-published, copyright 2016. ISBN-13 978-1535288187. A true-crime
+  account of an arson gang active across northwest Ohio "for two
+  decades" — scope confirmed regional, specific towns unconfirmed.
+- **"Civil War Stories of Northwest Ohio Heroes"** — Jim Mollenkopf,
+  Lake of the Cat Publishing, ©2002. ISBN 0-9665910-3-8. Covers
+  soldiers/monuments from Toledo, Defiance, Findlay, and other areas,
+  plus Johnson's Island — Defiance is Paulding's neighbor, so
+  plausible, but unconfirmed.
+- **"In Search of Our Past: Women of Northwest Ohio, Volume III"** —
+  Women Alive! Coalition, 1992. Nothing findable beyond the preface
+  already photographed; nineteen biographical sketches, unknown if any
+  are Paulding County women.
+- **"Legends and Lost Treasure of Northern Ohio"** — Wendy Koile, The
+  History Press, 2014. Confirmed topics: John Dillinger, the *G.P.
+  Griffith* shipwreck disaster, a family murdered for money, Ohio
+  counterfeiters, and Mad Anthony Wayne's legendary buried gold — none
+  obviously Paulding-tied, but a full chapter list wasn't findable.
+- **The Great Black Swamp trilogy** — Jim Mollenkopf, Lake of the Cat
+  Publishing (Vol. I 1999, Vol. II 2000, Vol. III 2008). Vol. I's
+  chapter list (Toledo War, Fort Meigs, canal days, etc.) reads
+  Toledo/Maumee-centric, not obviously Paulding-specific by title —
+  though the swamp itself covered Paulding entirely, so still worth
+  checking. Directly relevant to the archive's existing
+  `_items/draining-the-great-black-swamp.md` if anything turns up.
 
 ## Needs your review before publishing
 
