@@ -32,6 +32,23 @@ go through it and research/build each one properly.
   features a portrait of John Paulding — worth keeping in mind given
   this project's stance on not centering the county's namesake, though
   the title suggests broader coverage ("the men who built the town").
+- **"Paulding County, Ohio: A Pictorial History," Volumes I-III** — a
+  major three-volume community pictorial history, sponsored by the
+  John Paulding Historical Society. All three confirmed in hand:
+  - Vol. I — Turner Publishing Company. Cover marked "extremely rare,
+    no longer in print" (secondhand sticker, not part of the book
+    itself).
+  - Vol. II — M.T. Publishing Company (Evansville, IN); compiled by
+    the Paulding Chamber of Commerce and Volume 2 History Book
+    Committee, covering the early 1800s through 1970.
+  - Vol. III — M.T. Publishing Company; "Bicentennial Commemorative
+    Edition, 1820-2020."
+  
+  This is likely the single richest source on the list — worth
+  prioritizing when we get to the build pass. Distinct from the
+  archive's existing `_items/visions-of-paulding-county-2000-vol1.md`
+  (a *Paulding County Progress* newspaper-article compilation, a
+  different publication despite the similar name).
 
 - **"Charloe: 'A Village by a Stream' — A Pictorial History"** — a
   local pictorial history pamphlet, dated 1975 (title page also marked
