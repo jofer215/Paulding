@@ -23,6 +23,15 @@ go through it and research/build each one properly.
   (`_items/history-of-grover-hill.md`) — also already a bibliography
   stub (Laurence R. Hipp, 1971). You now have the physical copy in
   hand too, so this can also become a real transcribed entry.
+- **"History of Paulding, Ohio: The Men Who Built the Town, 1880-1920"**
+  (`_items/history-of-paulding-ohio-price-1975.md`) — Don H. Price,
+  1975, also already a bibliography stub (added earlier this session
+  as the presumed "earlier full history" Price references in his 1976
+  column series). You now have the physical copy in hand, confirming
+  it and making it a candidate for a real transcribed entry. Cover
+  features a portrait of John Paulding — worth keeping in mind given
+  this project's stance on not centering the county's namesake, though
+  the title suggests broader coverage ("the men who built the town").
 
 - **"Charloe: 'A Village by a Stream' — A Pictorial History"** — a
   local pictorial history pamphlet, dated 1975 (title page also marked
