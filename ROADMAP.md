@@ -32,6 +32,24 @@ go through it and research/build each one properly.
   features a portrait of John Paulding — worth keeping in mind given
   this project's stance on not centering the county's namesake, though
   the title suggests broader coverage ("the men who built the town").
+- **"The Melrose Area"** (`_items/the-melrose-area-sherry.md`) — Ann
+  (Swallem) Sherry, also already a bibliography stub. Physical copy
+  now in hand.
+- **"Ohio Ghost Towns, No. 19: Paulding County"**
+  (`_items/ohio-ghost-towns-paulding-county.md`) — Center for Ghost
+  Town Research in Ohio, Galena, Ohio, also already a bibliography
+  stub. Physical copy now in hand.
+- **"Paulding County Ohio" (Howe excerpt booklet)** — a locally-produced
+  booklet, spiral-bound, "Reprinted from Henry Howe's 'Historical
+  Collections of Ohio' and other sources." No publisher/date visible
+  in the photo sent. **This is a big deal:** it isolates just the
+  Paulding County material from Howe's ~700-page statewide encyclopedia
+  already linked at
+  `_items/howes-historical-collections-of-ohio-1907.md`, which noted
+  "the exact page range for the Paulding County chapter hasn't been
+  confirmed yet" — this booklet solves that. Strong candidate to
+  become the real transcribed `document` entry that stub was hoping
+  for.
 - **"Paulding County, Ohio: A Pictorial History," Volumes I-III** — a
   major three-volume community pictorial history, sponsored by the
   John Paulding Historical Society. All three confirmed in hand:
