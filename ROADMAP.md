@@ -9,6 +9,17 @@ Collecting titles first from photos you're sending; not yet built into
 `_items/` entries or verified against a build. Once the list is done,
 go through it and research/build each one properly.
 
+### Updates to two already-existing entries
+
+- **"Paulding County Murders"** (`_items/paulding-county-murders-bennett-calvert.md`)
+  — the physical book's cover gives the author's full name as **Jeanne
+  Bennett Calvert**, not just "Bennett Calvert" as Amazon displayed it.
+  Fix the name throughout that entry when we get to the build pass.
+- **"Oakwood Memories"** (`_items/oakwood-memories.md`) — already a
+  bibliography-only stub, compiled by the *same* Jeanne Bennett
+  Calvert. You now have the physical book in hand, so this can become
+  a real transcribed entry instead of just a catalog link.
+
 - **"Charloe: 'A Village by a Stream' — A Pictorial History"** — a
   local pictorial history pamphlet, dated 1975 (title page also marked
   "Nov. 9, 1975"), "In Memory of Charloe Peter, Last Indian Chief of
