@@ -169,7 +169,10 @@ or already-cataloged filename) were removed, keeping one copy of each.
   (`1892paulding.pdf` on your old WordPress site) but not the file itself.
   Currently just a bibliography `link` entry
   ([`_items/historical-atlas-paulding-county-1892.md`](_items/historical-atlas-paulding-county-1892.md)).
-  Send the PDF and this becomes a real `document`/`map` entry.
+  **Update:** you now have the actual physical book in hand (O. Morrow
+  and F.W. Bashore). Photographing/scanning its pages would let this
+  become a real `document`/`map` entry with the actual plat maps and
+  landowner listings, instead of just a link to the WordPress PDF.
 - **"The Cider Mills"** — listed in Don H. Price's original 15-article
   table of contents but missing from the `pOG4823` scan. If a copy turns
   up, it belongs in `_items/paulding-countys-past-don-price.md`.
