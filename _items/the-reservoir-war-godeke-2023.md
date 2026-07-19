@@ -22,7 +22,9 @@ and the reservoir's abandonment became law the following year. The
 county's motto, "No Compromise," comes from this event.
 
 This archive already has a brief account of the Reservoir War in the
-[county engineer's history overview]({{ "/archive/paulding-county-history-engineer-overview/" | relative_url }}),
+[county engineer's history overview]({{ "/archive/paulding-county-history-engineer-overview/" | relative_url }})
+and an
+[unattributed county history typescript]({{ "/archive/paulding-county-early-history-typescript/" | relative_url }}),
 and the event's own HMdb.org historical marker — reported missing — is
 listed in the
 [historical markers index]({{ "/archive/historical-markers-index/" | relative_url }}).

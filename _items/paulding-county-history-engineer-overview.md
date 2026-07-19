@@ -70,7 +70,10 @@ locks during the night of April 25, 1887. In response, a detachment of
 the State militia was dispatched, but the guilty parties were never
 identified. This event came to be known as the "Reservoir War" — see
 [*The Reservoir War* by Jerett W. Godeke]({{ "/archive/the-reservoir-war-godeke-2023/" | relative_url }})
-for a full-length account.
+for a full-length account, and an
+[unattributed county history typescript]({{ "/archive/paulding-county-early-history-typescript/" | relative_url }})
+elsewhere in this archive for the detail that the reservoir guards'
+camp was itself nicknamed "Camp Dynamite."
 
 Lumbering and timber products were for years the leading industry in the
 County, but these resources were largely depleted by the late 1880s, as
