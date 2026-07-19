@@ -19,6 +19,10 @@ go through it and research/build each one properly.
   bibliography-only stub, compiled by the *same* Jeanne Bennett
   Calvert. You now have the physical book in hand, so this can become
   a real transcribed entry instead of just a catalog link.
+- **"History of Grover Hill (Latty and Washington Townships)"**
+  (`_items/history-of-grover-hill.md`) — also already a bibliography
+  stub (Laurence R. Hipp, 1971). You now have the physical copy in
+  hand too, so this can also become a real transcribed entry.
 
 - **"Charloe: 'A Village by a Stream' — A Pictorial History"** — a
   local pictorial history pamphlet, dated 1975 (title page also marked
@@ -59,6 +63,14 @@ go through it and research/build each one properly.
   
   Directly relevant to this archive's existing
   `_items/draining-the-great-black-swamp.md`.
+- **"Paulding County Courthouse Centennial" booklet** — commemorative
+  program for the courthouse centennial, June 20-21, 1986. Numbered
+  copy (No. 689) with an embossed seal — looks like a limited-run
+  local printing. No author/publisher visible in the photo sent.
+  Directly relevant to the Sheriff's Office document's note on the
+  courthouse's 1888 completion
+  (`_items/history-of-paulding-county-sheriffs-office.md`) and to
+  [`_items/paulding-courthouse-front-view.md`](_items/paulding-courthouse-front-view.md).
 
 ## Needs your review before publishing
 
