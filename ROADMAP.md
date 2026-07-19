@@ -31,6 +31,18 @@ go through it and research/build each one properly.
   Coalition, Toledo, Ohio, 1992, dedicated to the 100th anniversary of
   the YWCA. Nineteen biographical sketches of northwest Ohio women;
   may include Paulding County subjects.
+- **"Legends and Lost Treasure of Northern Ohio"** — Wendy Koile, The
+  History Press, Charleston, SC, first published 2014, second printing
+  2015. ISBN 978-1-62619-240-9 (paperback), LCCN 2013047439. Regional
+  folklore/treasure-legend anecdotes; may include Paulding County
+  material.
+- **"The Great Black Swamp III: Further Historical Tales of Northwest
+  Ohio"** — Jim Mollenkopf (same author as *Civil War Stories of
+  Northwest Ohio Heroes*, above), Lake of the Cat Publishing, Toledo,
+  Ohio, ©2008. ISBN 978-0-9665910-5-7, LCCN 2008903857. Third in a
+  series on the Great Black Swamp — directly relevant to this archive's
+  existing `_items/draining-the-great-black-swamp.md`. Worth checking
+  whether Mollenkopf's volumes I-II also exist and are relevant.
 
 ## Needs your review before publishing
 
