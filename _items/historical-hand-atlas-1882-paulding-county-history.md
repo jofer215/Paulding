@@ -858,4 +858,8 @@ Paulding county will be almost equal to any in Ohio.
 *This transcription is a work in progress — the original essay continues
 beyond this excerpt. If you have access to later sections (township
 histories, notable residents and institutions), they can be appended here
-or added as separate document entries.*
+or added as separate document entries.* A 1992 compilation reprinting
+pages 179-239 of the same atlas, including township and personal
+histories, is noted at
+[History of Northwestern Ohio, History of Paulding County (Budd, compiled by Workman, 1992)]({{ "/archive/history-of-northwestern-ohio-paulding-county-budd-workman-1992/" | relative_url }})
+— a strong candidate source for that missing continuation.
