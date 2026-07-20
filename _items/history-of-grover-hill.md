@@ -16,4 +16,5 @@ institutions, businesses, and residents.
 
 If anyone has access to a physical or scanned copy, excerpts (with
 permission) or a `document`-type entry summarizing specific chapters would
-be a valuable addition.
+be a valuable addition. One chapter has already surfaced this way — see
+[History of the Grover Hill Zion Methodist Church]({{ "/archive/grover-hill-zion-methodist-church-history/" | relative_url }}).

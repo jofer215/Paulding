@@ -19,8 +19,8 @@ statewide.
 
 It's long since entered the public domain and is freely readable at the
 [Internet Archive](https://archive.org/details/historicalcollec02howeuoft).
-This entry links to it rather than reproducing it; the exact page range
-for the Paulding County chapter hasn't been confirmed yet. If you have
-the physical volume in hand, photographing those specific pages would
-let this become a real `document` entry with the actual Paulding County
-text transcribed, rather than just a link to the whole book.
+This entry links to the whole book rather than reproducing it. The
+Paulding County chapter begins around page 374 (confirmed from a
+locally-produced excerpt booklet, reprinting just that chapter — see
+[Paulding County Ohio (Howe Excerpt)]({{ "/archive/paulding-county-ohio-howe-excerpt/" | relative_url }})
+for the actual text, since the original 1907 volume is public domain).

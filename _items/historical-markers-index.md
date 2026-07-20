@@ -87,6 +87,12 @@ itself, see
 
 </div>
 
+The undated "Charloe (Oquanoxa's Village, on the Auglaize River)" marker
+above was likely dedicated May 27, 1962 — see the marker-dedication
+program reproduced in
+[Charloe: "A Village by a Stream"]({{ "/archive/charloe-a-village-by-a-stream/" | relative_url }})
+— though this isn't fully confirmed.
+
 ## Melrose
 
 <div class="table-wrap" markdown="1">

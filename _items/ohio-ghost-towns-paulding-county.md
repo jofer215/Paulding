@@ -1,20 +1,22 @@
 ---
 title: "Ohio Ghost Towns, No. 19: Paulding County"
-type: link
+type: document
 era: 2000-present
-description: "A 152-page volume documenting Paulding County's ghost towns and vanished settlements — useful for tracing communities that didn't survive into the present."
-source: "Richard M. Helwig (editor), Center for Ghost Town Research in Ohio, 1989"
-rights: "Bibliographic reference only; this entry links to the book's catalog listing, not a digitized copy. Check availability/rights before reproducing its contents."
-external_url: "https://books.google.com/books?id=RYhNHAAACAAJ"
-tags: [ghost towns, bibliography, further reading, vanished settlements]
+description: "A full scan documenting Paulding County's ghost towns and vanished settlements, including plat maps from an 1917 Atlas of Paulding County by Geo. A. Ogle & Co. and other period maps — useful for tracing communities that didn't survive into the present."
+source: "Richard M. Helwig (editor), Center for Ghost Town Research in Ohio, 1989."
+rights: "Rights status not confirmed."
+file: /assets/files/documents/ohio-ghost-towns-no-19-paulding-county.pdf
+tags: [ghost towns, bibliography, further reading, vanished settlements, plat maps]
 ---
 
-Catalog listing for a 1989 volume from the Center for Ghost Town Research in
-Ohio, focused specifically on Paulding County's ghost towns — settlements
-that were founded, grew, and then declined or disappeared entirely. This is
-a strong lead for anyone researching communities that didn't survive to the
-present, including former canal-era villages like Junction.
+A volume from the Center for Ghost Town Research in Ohio, focused
+specifically on Paulding County's ghost towns — settlements that were
+founded, grew, and then declined or disappeared entirely, including
+former canal-era villages like Junction. Includes reproductions of plat
+maps for vanished towns (Hedges, Mandale, McGill, Newberg, Roselms,
+Tipton, Worstville, and others) sourced from an 1917 *Atlas of Paulding
+County* by Geo. A. Ogle & Co., plus period railroad and township maps
+covering the county.
 
-If anyone has access to a physical or scanned copy, excerpts (with
-permission) or a proper `document`-type entry summarizing specific towns
-covered would be a valuable addition.
+See the full PDF for the town-by-town detail; not individually
+transcribed here yet.
