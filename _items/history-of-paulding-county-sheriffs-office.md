@@ -78,7 +78,10 @@ talk of construction have been located. The jail was completed in 1876.
 When the Courthouse was completed in 1888, the jail was connected to the
 water cistern on the third floor of the Courthouse to furnish water to
 the jail by an underground pipe — the only known connection between the
-two buildings.
+two buildings. An
+[unattributed county history typescript]({{ "/archive/paulding-county-early-history-typescript/" | relative_url }})
+elsewhere in this archive gives the exact completion date (May 24,
+1888) and the building's total cost: $42,524.29.
 
 ## Sheriffs of Paulding County, 1837–1992
 
