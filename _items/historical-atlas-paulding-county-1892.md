@@ -1,20 +1,20 @@
 ---
 title: "Historical Atlas of Paulding County, Ohio (Morrow & Bashore, 1892)"
-type: link
+type: map
 era: 1880-1920
-description: "A 109-page historical atlas of Paulding County compiled by Oliver Morrow and Frederick William Bashore, originally published in 1892."
-source: "Compiled by Oliver Morrow; Frederick William Bashore, Western Publishing Company, 1892 (reprint edition)"
-rights: "Bibliographic reference only; this entry links to the book's catalog listing, not a digitized copy. Given the 1892 original publication date, the underlying atlas is very likely public domain — verify the specific reprint edition's rights before reproducing it."
-external_url: "https://books.google.com/books?id=FgKQnQEACAAJ"
-tags: [atlas, maps, land ownership, bibliography, further reading]
+description: "A 94-page historical atlas of Paulding County compiled by Oliver Morrow and Frederick William Bashore, originally published in 1892 — township-by-township plat maps and landowner listings."
+source: "Compiled by Oliver Morrow; Frederick William Bashore, Western Publishing Company, 1892."
+rights: "Public domain (1892 publication)."
+file: /assets/files/maps/historical-atlas-paulding-county-1892.pdf
+tags: [atlas, maps, land ownership, plat maps, public domain]
 ---
 
-Catalog listing for an 1892 historical atlas of Paulding County — likely
-township-by-township plat maps and landowner listings typical of atlases
-from this period. This is a strong candidate for a future `document`- or
-`map`-type entry with a real scan and page-by-page detail, since the
-original is old enough to almost certainly be in the public domain.
+The full 1892 historical atlas of Paulding County — township-by-township
+plat maps and landowner listings typical of atlases from this period,
+scanned page by page. Compressed from the original ~96MB scan for the
+web; if higher-resolution detail on a specific plat is ever needed, the
+uncompressed original can be re-derived from this same source.
 
-If anyone can locate a scanned copy of the original 1892 atlas (rather than
-just this reprint's catalog page), it belongs here as a primary source, not
-just a link.
+A 2016 facsimile reprint of this same atlas is also known to exist in
+physical form; this entry uses the original page scans directly rather
+than the reprint.
