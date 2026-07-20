@@ -210,23 +210,21 @@ or already-cataloged filename) were removed, keeping one copy of each.
   content, just a different edition — noted in the entry but not
   separately scanned.
 - **"The Cider Mills"** — listed in Don H. Price's original 15-article
-  table of contents but missing from the `pOG4823` scan. If a copy turns
-  up, it belongs in `_items/paulding-countys-past-don-price.md`.
-- **Don H. Price's 1975 "History of Paulding, Ohio"** — currently just a
-  bibliographic `link` entry
-  ([`_items/history-of-paulding-ohio-price-1975.md`](_items/history-of-paulding-ohio-price-1975.md))
-  pointing at a used-book listing. This is almost certainly the "earlier
-  full history" Price refers to in `paulding-countys-past-don-price.md`
-  — if a copy turns up, it becomes a real `document` entry, and might
-  also be where "The Cider Mills" survives.
+  table of contents but missing from the `pOG4823` scan. Might survive
+  in Price's 1975 "History of Paulding, Ohio" (physical copy now in
+  hand — see "Still pending" above); otherwise if a copy turns up
+  separately, it belongs in `_items/paulding-countys-past-don-price.md`.
 - **Canal Towns Were Numerous, Parts One and Two** — Part Three is
   transcribed ([`_items/canal-towns-were-numerous-1922.md`](_items/canal-towns-were-numerous-1922.md)),
   but the earlier installments (referenced as having run in an October/
   November newsletter and a January/February newsletter of an
   unspecified year) haven't surfaced yet.
-- **400MB WordPress media tar** — you're planning to push extracted files
-  to a `raw-media-import` branch (or similar) for curation. `uploads/` is
-  already excluded from the Jekyll build to receive it.
+- ~~**400MB WordPress media tar**~~ — **DONE.** Everything from it has
+  come through over the course of this project (individual uploads,
+  the photo batches, the physical-book scans, etc.), so there's
+  nothing left to stage separately. The `uploads/` exclusion in
+  `_config.yml` has been removed since there's no folder to receive
+  anymore.
 
 ## Structural/process notes
 
