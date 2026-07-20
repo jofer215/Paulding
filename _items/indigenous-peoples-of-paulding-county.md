@@ -53,7 +53,9 @@ Other entries in this archive touch on Indigenous history from different
 angles worth cross-referencing: the [1882 Historical Hand-Atlas]({{ "/archive/historical-hand-atlas-1882-paulding-county-history/" | relative_url }})
 and the [county engineer's overview]({{ "/archive/paulding-county-history-engineer-overview/" | relative_url }})
 both describe Ottawa and Pottawatomie presence and Oquanoxa's village near
-Charloe, and the [1973 Maumee River map]({{ "/archive/maumee-river-historic-map-1973/" | relative_url }})
+Charloe, [Charloe: "A Village by a Stream"]({{ "/archive/charloe-a-village-by-a-stream/" | relative_url }})
+covers the village and its namesake, Charloe Peter, directly, and the
+[1973 Maumee River map]({{ "/archive/maumee-river-historic-map-1973/" | relative_url }})
 plots Delaware, Miami, Ottawa, Potawatomi, Shawnee, and Wyandot towns and
 trails across the wider region. Native-land.ca's territorial mapping and
 these historical sources don't necessarily agree on nation, name spelling,

@@ -57,10 +57,20 @@ step-by-step guide and a copy-paste template.
 
 ## Running locally
 
+This repo is pinned to **Ruby 3.1.4** via `.ruby-version` — newer
+Rubies (3.4+/4.x) drop gems the old `github-pages`/Jekyll toolchain
+needs, and break a `liquid` gem method it calls. Install it with
+[rbenv](https://github.com/rbenv/rbenv) (`rbenv install 3.1.4`) rather
+than using your system Ruby or Homebrew's default one.
+
 ```bash
 bundle install
-bundle exec jekyll serve
+LANG=en_US.UTF-8 LC_ALL=en_US.UTF-8 bundle exec jekyll serve
 ```
+
+(The `LANG`/`LC_ALL` variables work around a Sass encoding bug that
+otherwise fails on non-ASCII characters in the stylesheets — you'll
+know you need them if you see a "US-ASCII character" error.)
 
 Then open http://localhost:4000/Paulding/ in a browser. (The `/Paulding/`
 prefix comes from `baseurl` in `_config.yml`, and must match the exact case

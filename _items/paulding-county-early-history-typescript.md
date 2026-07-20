@@ -28,6 +28,8 @@ outcome given in
 and [Jerett Godeke's book on the same event]({{ "/archive/the-reservoir-war-godeke-2023/" | relative_url }}).
 This document adds real detail neither of those has: the reservoir
 camp's actual nickname, "Camp Dynamite," and Governor Foraker's visit
+afterward. On Charloe specifically, see also
+[Charloe: "A Village by a Stream"]({{ "/archive/charloe-a-village-by-a-stream/" | relative_url }}).
 and recommendation afterward.
 
 ## Text

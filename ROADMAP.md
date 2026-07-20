@@ -9,82 +9,50 @@ Collecting titles first from photos you're sending; not yet built into
 `_items/` entries or verified against a build. Once the list is done,
 go through it and research/build each one properly.
 
-### Updates to two already-existing entries
+### Done
+
+- ~~"Ohio Ghost Towns, No. 19: Paulding County"~~ — real `document` entry now, full scan.
+- ~~"Paulding County Ohio" (Howe excerpt booklet)~~ — real `document` entry; confirms the Paulding County chapter of Howe's *Historical Collections of Ohio* starts around page 374.
+- ~~"Charloe: 'A Village by a Stream'"~~ — real `document` entry; also documents a May 27, 1962 marker-dedication ceremony, cross-linked from `historical-markers-index.md`.
+- ~~"Paulding County Courthouse Centennial" booklet~~ — real `document` entry (Melinda Huseby Krick, 1986).
+- ~~History of the Grover Hill Zion Methodist Church~~ — just this one chapter surfaced as its own scan; real `document` entry, cross-linked from the still-just-a-stub `history-of-grover-hill.md`.
+- ~~Della: Correspondence 1906-1907~~ — hosted locally now (was link-only to pauldinghistory.wordpress.com, which is being decommissioned).
+
+### Still pending — physical copies in hand, not yet built
 
 - **"Paulding County Murders"** (`_items/paulding-county-murders-bennett-calvert.md`)
   — the physical book's cover gives the author's full name as **Jeanne
   Bennett Calvert**, not just "Bennett Calvert" as Amazon displayed it.
-  Fix the name throughout that entry when we get to the build pass.
-- **"Oakwood Memories"** (`_items/oakwood-memories.md`) — already a
-  bibliography-only stub, compiled by the *same* Jeanne Bennett
-  Calvert. You now have the physical book in hand, so this can become
-  a real transcribed entry instead of just a catalog link.
+  Fix the name throughout that entry.
+- **"Oakwood Memories"** (`_items/oakwood-memories.md`) — bibliography
+  stub, compiled by the *same* Jeanne Bennett Calvert. Physical copy in
+  hand.
 - **"History of Grover Hill (Latty and Washington Townships)"**
-  (`_items/history-of-grover-hill.md`) — also already a bibliography
-  stub (Laurence R. Hipp, 1971). You now have the physical copy in
-  hand too, so this can also become a real transcribed entry.
+  (`_items/history-of-grover-hill.md`) — still just the bibliography
+  stub for the full 393-page book (Laurence R. Hipp, 1971), even though
+  one chapter (Zion Methodist Church) is now a real entry. Physical
+  copy of the full book in hand.
 - **"History of Paulding, Ohio: The Men Who Built the Town, 1880-1920"**
   (`_items/history-of-paulding-ohio-price-1975.md`) — Don H. Price,
-  1975, also already a bibliography stub (added earlier this session
-  as the presumed "earlier full history" Price references in his 1976
-  column series). You now have the physical copy in hand, confirming
-  it and making it a candidate for a real transcribed entry. Cover
-  features a portrait of John Paulding — worth keeping in mind given
-  this project's stance on not centering the county's namesake, though
-  the title suggests broader coverage ("the men who built the town").
+  1975, the presumed "earlier full history" Price references in his
+  1976 column series. Physical copy in hand. Cover features a portrait
+  of John Paulding — worth keeping in mind given this project's stance
+  on not centering the county's namesake, though the title suggests
+  broader coverage ("the men who built the town").
 - **"The Melrose Area"** (`_items/the-melrose-area-sherry.md`) — Ann
-  (Swallem) Sherry, also already a bibliography stub. Physical copy
-  now in hand.
-- **"Ohio Ghost Towns, No. 19: Paulding County"**
-  (`_items/ohio-ghost-towns-paulding-county.md`) — Center for Ghost
-  Town Research in Ohio, Galena, Ohio, also already a bibliography
-  stub. Physical copy now in hand.
-- **"Paulding County Ohio" (Howe excerpt booklet)** — a locally-produced
-  booklet, spiral-bound, "Reprinted from Henry Howe's 'Historical
-  Collections of Ohio' and other sources." No publisher/date visible
-  in the photo sent. **This is a big deal:** it isolates just the
-  Paulding County material from Howe's ~700-page statewide encyclopedia
-  already linked at
-  `_items/howes-historical-collections-of-ohio-1907.md`, which noted
-  "the exact page range for the Paulding County chapter hasn't been
-  confirmed yet" — this booklet solves that. Strong candidate to
-  become the real transcribed `document` entry that stub was hoping
-  for.
+  (Swallem) Sherry. Physical copy in hand.
 - **"Paulding County, Ohio: A Pictorial History," Volumes I-III** — a
   major three-volume community pictorial history, sponsored by the
-  John Paulding Historical Society. All three confirmed in hand:
-  - Vol. I — Turner Publishing Company. Cover marked "extremely rare,
-    no longer in print" (secondhand sticker, not part of the book
-    itself).
-  - Vol. II — M.T. Publishing Company (Evansville, IN); compiled by
-    the Paulding Chamber of Commerce and Volume 2 History Book
-    Committee, covering the early 1800s through 1970.
-  - Vol. III — M.T. Publishing Company; "Bicentennial Commemorative
-    Edition, 1820-2020."
-  
-  This is likely the single richest source on the list — worth
-  prioritizing when we get to the build pass. Distinct from the
-  archive's existing `_items/visions-of-paulding-county-2000-vol1.md`
-  (a *Paulding County Progress* newspaper-article compilation, a
-  different publication despite the similar name).
-
-- **"Charloe: 'A Village by a Stream' — A Pictorial History"** — a
-  local pictorial history pamphlet, dated 1975 (title page also marked
-  "Nov. 9, 1975"), "In Memory of Charloe Peter, Last Indian Chief of
-  the Oquanoxas Reservation before 1820," Brown Township, Paulding
-  County, Ohio. No author/publisher visible in the photos sent. Likely
-  a local historical society or town-anniversary production. Directly
-  relevant to the reported-missing "Charloe" HMdb marker already in
-  `_items/historical-markers-index.md`, and to
-  `_items/indigenous-peoples-of-paulding-county.md`.
-- **"Paulding County Courthouse Centennial" booklet** — commemorative
-  program for the courthouse centennial, June 20-21, 1986. Numbered
-  copy (No. 689) with an embossed seal — looks like a limited-run
-  local printing. No author/publisher visible in the photo sent.
-  Directly relevant to the Sheriff's Office document's note on the
-  courthouse's 1888 completion
-  (`_items/history-of-paulding-county-sheriffs-office.md`) and to
-  [`_items/paulding-courthouse-front-view.md`](_items/paulding-courthouse-front-view.md).
+  John Paulding Historical Society, all three confirmed in hand.
+  Likely the single richest source on the whole list — **still
+  completely untouched**, worth prioritizing next. Vol. I via Turner
+  Publishing Company; Vols. II-III via M.T. Publishing Company (Vol. II
+  compiled by the Paulding Chamber of Commerce/Volume 2 History Book
+  Committee, covering the early 1800s-1970; Vol. III a "Bicentennial
+  Commemorative Edition, 1820-2020"). Distinct from the archive's
+  existing `_items/visions-of-paulding-county-2000-vol1.md` (a
+  *Paulding County Progress* newspaper-article compilation, a different
+  publication despite the similar name).
 
 ### TODO (you): check these regional books for actual Paulding content
 
@@ -160,13 +128,6 @@ Your options, as discussed:
 1. Add "Jim Powell" with heavy editorial framing/context
 2. Skip it entirely
 3. Something else once you've read it
-
-### Mystery/sensitive files already handled cautiously
-- **Della: Correspondence 1906-1907** — added as a `link`-type entry
-  (external, not hosted locally) per your earlier decision to include it
-  as-is. You've now sent the actual PDF (`20160519_ferrisjoshua_mms647.pdf`)
-  — it hasn't been re-hosted locally or transcribed; flag if you want that
-  reconsidered.
 
 ### John Paulding reference images — awaiting your call
 
@@ -278,5 +239,14 @@ or already-cataloged filename) were removed, keeping one copy of each.
   sometimes requires renaming to an intermediate name first, then to the
   final lowercase name), remember to flip `_config.yml`'s `baseurl` and
   `repository`, and the two URLs in `README.md`, to match.
-- Development branch is `paulding-county-oh` (renamed from
-  `claude/paulding-county-history-site-9g199v`); PRs merge into `main`.
+- The repo is down to a single branch, `main` — `paulding-county-oh`
+  (previously the working branch, with PRs merging into `main`) was
+  deleted after everything was consolidated. Commits now go straight
+  to `main`.
+- Local Jekyll builds work now: this repo is pinned to Ruby 3.1.4 via
+  `.ruby-version`/rbenv (newer Rubies break the old `liquid` gem
+  `github-pages` pulls in), and the `Gemfile` adds back `csv`,
+  `base64`, and `bigdecimal`, which Ruby 3.4+ dropped from its
+  defaults. Build with `bundle exec jekyll build`; if you hit a
+  "US-ASCII character" Sass error, set `LANG=en_US.UTF-8
+  LC_ALL=en_US.UTF-8` first.
