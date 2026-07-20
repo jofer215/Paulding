@@ -19,4 +19,6 @@ County* by Geo. A. Ogle & Co., plus period railroad and township maps
 covering the county.
 
 See the full PDF for the town-by-town detail; not individually
-transcribed here yet.
+transcribed here yet. See also
+[A Town by Any Other Name: Worstville, Ohio]({{ "/archive/worstville-ohio-1987/" | relative_url }})
+for a closer look at one of these vanished settlements.

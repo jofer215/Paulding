@@ -24,3 +24,10 @@ the county today. If you have records of canal labor camps, company
 ledgers, immigrant labor accounts, or local news coverage of the canal
 era, they would substantially deepen this entry beyond the summary given
 here.
+
+The Miami and Erie Canal's route through the county passed through
+Mandale, Newberg, Melrose, and Charloe. The first boat from Cincinnati
+arrived in Toledo via this route on June 27, 1845, completing a
+242-mile water connection from Cincinnati to Lake Erie. The Wabash and
+Erie Canal's route roughly followed what is now U.S. Highway 24; its
+depression is still visible alongside the road in places.
