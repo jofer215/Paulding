@@ -20,10 +20,8 @@ go through it and research/build each one properly.
 
 ### Still pending — physical copies in hand, not yet built
 
-- **"Paulding County Murders"** (`_items/paulding-county-murders-bennett-calvert.md`)
-  — the physical book's cover gives the author's full name as **Jeanne
-  Bennett Calvert**, not just "Bennett Calvert" as Amazon displayed it.
-  Fix the name throughout that entry.
+- ~~**"Paulding County Murders"** author name~~ — fixed, now reads
+  Jeanne Bennett Calvert throughout.
 - **"Oakwood Memories"** (`_items/oakwood-memories.md`) — bibliography
   stub, compiled by the *same* Jeanne Bennett Calvert. Physical copy in
   hand.
@@ -41,18 +39,18 @@ go through it and research/build each one properly.
   broader coverage ("the men who built the town").
 - **"The Melrose Area"** (`_items/the-melrose-area-sherry.md`) — Ann
   (Swallem) Sherry. Physical copy in hand.
-- **"Paulding County, Ohio: A Pictorial History," Volumes I-III** — a
-  major three-volume community pictorial history, sponsored by the
-  John Paulding Historical Society, all three confirmed in hand.
-  Likely the single richest source on the whole list — **still
-  completely untouched**, worth prioritizing next. Vol. I via Turner
-  Publishing Company; Vols. II-III via M.T. Publishing Company (Vol. II
-  compiled by the Paulding Chamber of Commerce/Volume 2 History Book
-  Committee, covering the early 1800s-1970; Vol. III a "Bicentennial
-  Commemorative Edition, 1820-2020"). Distinct from the archive's
-  existing `_items/visions-of-paulding-county-2000-vol1.md` (a
-  *Paulding County Progress* newspaper-article compilation, a different
-  publication despite the similar name).
+- ~~**"Paulding County, Ohio: A Pictorial History," Volumes I-III**~~ —
+  each volume now has a bibliography-only `link` card
+  ([Vol. I](_items/paulding-county-ohio-pictorial-history-vol1.md),
+  [Vol. II](_items/paulding-county-ohio-pictorial-history-vol2.md),
+  [Vol. III](_items/paulding-county-ohio-pictorial-history-vol3.md)),
+  in copyright, not reproduced. **Still the richest source in hand,
+  though** — next step is mining individual standout photos/facts out
+  of the physical copies and giving those their own entries, the same
+  way the individual postcard/photo entries were built. Distinct from
+  the archive's existing `_items/visions-of-paulding-county-2000-vol1.md`
+  (a *Paulding County Progress* newspaper-article compilation, a
+  different publication despite the similar name).
 
 ### TODO (you): check these regional books for actual Paulding content
 

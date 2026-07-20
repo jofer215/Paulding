@@ -2,14 +2,14 @@
 title: "Paulding County Murders"
 type: link
 era: 2000-present
-description: "A book by Bennett Calvert summarizing murders and other unlawful deaths across Paulding County, Ohio, over the decades, and their outcomes."
-source: "Bennett Calvert, independently published, Nov. 15, 2023"
+description: "A book by Jeanne Bennett Calvert summarizing murders and other unlawful deaths across Paulding County, Ohio, over the decades, and their outcomes."
+source: "Jeanne Bennett Calvert, independently published, Nov. 15, 2023"
 rights: "External resource — rights belong to the author/publisher."
 external_url: "https://www.amazon.com/Paulding-County-Murders-Bennett-Calvert/dp/B0CLPFDLF6"
-tags: [true crime, book, bennett calvert]
+tags: [true crime, book, jeanne bennett calvert]
 ---
 
-*Paulding County Murders*, by Bennett Calvert. Independently published,
+*Paulding County Murders*, by Jeanne Bennett Calvert. Independently published,
 Nov. 15, 2023; 175 pages; ISBN-13 979-8858718772.
 
 Publisher's synopsis: "Over the decades, there have been many murders
