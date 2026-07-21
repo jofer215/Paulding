@@ -1,6 +1,6 @@
 ---
 title: "Paulding County, Ohio: A Pictorial History, Volume III (Bicentennial Edition)"
-type: link
+type: book
 era: 2000-present
 description: "The third volume of a major community pictorial history of Paulding County, a bicentennial edition covering 1820-2020, sponsored by the John Paulding Historical Society."
 source: "M.T. Publishing Company; sponsored by the John Paulding Historical Society. \"Bicentennial Commemorative Edition, 1820-2020.\""

@@ -1,5 +1,5 @@
 name: Suggest a resource
-description: Suggest a document, map, article, or link to add to the archive (no git/GitHub editing required).
+description: Suggest a document, map, article, book, or link to add to the archive (no git/GitHub editing required).
 title: "[Suggestion]: "
 labels: ["new-material"]
 body:
@@ -11,6 +11,7 @@ body:
         - Document
         - Map
         - Article
+        - Book
         - Link
     validations:
       required: true

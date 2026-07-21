@@ -1,6 +1,6 @@
 ---
 title: "Oakwood Memories"
-type: link
+type: book
 era: 2000-present
 description: "A 160-page compiled local history of Oakwood, Ohio, from the Oakwood Library Association."
 source: "Oakwood Library Association, compiled by Jeanne Bennett Calvert, Quail Hollow Press, 2013"

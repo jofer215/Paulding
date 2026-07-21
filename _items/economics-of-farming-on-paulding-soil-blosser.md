@@ -1,6 +1,6 @@
 ---
 title: "Economics of Farming on Paulding Soil"
-type: link
+type: book
 era: 1920-2000
 description: "R. H. Blosser's research bulletin on the economics of farming Paulding County's soil, published by the Ohio Agricultural Experiment Station."
 source: "R. H. Blosser, Research Bulletin, Ohio Agricultural Experiment Station. OCLC 19029146."

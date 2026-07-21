@@ -1,6 +1,6 @@
 ---
 title: "Cemetery Inscriptions, Paulding County, Ohio"
-type: link
+type: book
 era: 1920-2000
 description: "A 1986 compilation of cemetery inscriptions from Paulding County, Ohio, compiler unknown."
 source: "Compiler unknown, 1986."

@@ -1,6 +1,6 @@
 ---
 title: "History of Paulding, Ohio: The Men Who Built the Town, 1880-1920"
-type: link
+type: book
 era: 1880-1920
 description: "Don H. Price's full-length history of Paulding, Ohio, covering the town's builders from 1880 to 1920 — likely the earlier work he references in his 1976 Paulding Progress column series."
 source: "Don H. Price, 1975, 127 pages."

@@ -1,6 +1,6 @@
 ---
 title: "Paulding County Ohio Census Index: 1830, 1840, 1850, 1860"
-type: link
+type: book
 era: 1920-2000
 description: "Ray Keck's index to the early federal census records for Paulding County, Ohio, covering 1830 through 1860."
 source: "Ray Keck, 1996."

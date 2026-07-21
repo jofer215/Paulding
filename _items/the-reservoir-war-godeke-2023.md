@@ -1,6 +1,6 @@
 ---
 title: "The Reservoir War: A History of Ohio's Forgotten Riot in America's Gilded Age, 1874-1888"
-type: link
+type: book
 era: 1880-1920
 description: "Jerett W. Godeke's history of the 1887 destruction of the Six Mile Reservoir near Antwerp, Ohio, by local 'Dynamiters' — the event behind Paulding County's motto, 'No Compromise.'"
 source: "Jerett W. Godeke, self-published, 2023. ISBN 9798853195578 (paperback), 9798853289529 (hardcover)."

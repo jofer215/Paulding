@@ -1,6 +1,6 @@
 ---
 title: "Paulding County Ohio Mortality Records Through 1993"
-type: link
+type: book
 era: 1920-2000
 description: "Ray E. Keck's compilation of mortality/death records for Paulding County, Ohio, through 1993."
 source: "Ray E. Keck, 1993."

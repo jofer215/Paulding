@@ -1,6 +1,6 @@
 ---
 title: "Paulding County Murders"
-type: link
+type: book
 era: 2000-present
 description: "A book by Jeanne Bennett Calvert summarizing murders and other unlawful deaths across Paulding County, Ohio, over the decades, and their outcomes."
 source: "Jeanne Bennett Calvert, independently published, Nov. 15, 2023"

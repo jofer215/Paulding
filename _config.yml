@@ -18,6 +18,7 @@ material_types:
   - document
   - map
   - article
+  - book
   - link
 
 collections:

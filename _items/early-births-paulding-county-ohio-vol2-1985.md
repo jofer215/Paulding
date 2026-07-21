@@ -1,6 +1,6 @@
 ---
 title: "Early Births, Paulding County, Ohio, Volume 2"
-type: link
+type: book
 era: 1920-2000
 description: "A 1985 compilation of early birth records from Paulding County, Ohio — Volume 2, compiler unknown."
 source: "Compiler unknown, 1985."

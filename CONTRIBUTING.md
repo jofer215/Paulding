@@ -14,7 +14,7 @@ There are two ways to contribute:
 
 ## Adding an item yourself
 
-Every item (document, map, article, or link) is one Markdown file in the
+Every item (document, map, article, book, or link) is one Markdown file in the
 `_items/` folder. The file has two parts:
 
 - A **front matter** block (metadata between `---` lines) that drives
@@ -22,7 +22,7 @@ Every item (document, map, article, or link) is one Markdown file in the
 - An optional **body** below it, in Markdown, for a transcription, extra
   context, or notes
 
-### 1. Add the scanned file (skip this for links)
+### 1. Add the scanned file (skip this for links and books you don't have a copy of)
 
 Put the scan in `assets/files/<type>/`, using a short, descriptive,
 lowercase-with-hyphens filename:
@@ -35,6 +35,11 @@ Prefer `.jpg` or `.png` for images (they display inline) and `.pdf` for
 multi-page documents. Keep individual files under ~10 MB where possible —
 compress large scans before adding them.
 
+For a `book` entry: if you only know the book exists (no scan in hand),
+skip this step and use `external_url` for a citation link instead — same
+as `link`. If you have pages to share (and it's out of copyright, or you
+have permission), scan and host them like any other `document`.
+
 ### 2. Add the metadata file
 
 Create a new file in `_items/`, named after the item, e.g.
@@ -43,14 +48,14 @@ Create a new file in `_items/`, named after the item, e.g.
 ```yaml
 ---
 title: "Short, descriptive title"
-type: document            # one of: document, map, article, link
+type: document            # one of: document, map, article, book, link
 era: 1880-1920             # pick the closest match from _data/eras.yml
 date: 1893-06-15           # optional; use whatever precision you know (YYYY or YYYY-MM-DD)
 description: "One or two sentences shown on the browse card."
 source: "Where this came from, e.g. an archive, courthouse, or family collection"
 rights: "Copyright/public-domain status, e.g. 'Public domain (published before 1928)'"
-file: /assets/files/documents/1875-plat-map.jpg   # omit for type: link
-external_url: "https://example.org"                # only for type: link
+file: /assets/files/documents/1875-plat-map.jpg   # omit for type: link/book without a scan
+external_url: "https://example.org"                # for type: link, or a book you're only citing
 tags: [tag-one, tag-two]
 ---
 
@@ -62,7 +67,7 @@ Notes on the fields:
 | Field          | Required          | Notes                                                                 |
 |----------------|--------------------|------------------------------------------------------------------------|
 | `title`        | yes                | Displayed everywhere; keep it concise                                 |
-| `type`         | yes                | Must be exactly one of `document`, `map`, `article`, `link`           |
+| `type`         | yes                | Must be exactly one of `document`, `map`, `article`, `book`, `link`   |
 | `era`          | yes                | Must match a `key` from [`_data/eras.yml`](_data/eras.yml)            |
 | `date`         | no                 | Enables sorting by recency and shows a year on the card               |
 | `description`  | recommended        | Shown on the browse/section card                                     |

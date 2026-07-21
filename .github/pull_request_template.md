@@ -1,6 +1,6 @@
 ## What's being added
 
-<!-- What is this item (document/map/article/link)? Where did it come from? -->
+<!-- What is this item (document/map/article/book/link)? Where did it come from? -->
 
 ## Checklist
 

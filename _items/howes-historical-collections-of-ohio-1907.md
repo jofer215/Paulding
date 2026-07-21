@@ -1,6 +1,6 @@
 ---
 title: "Historical Collections of Ohio, Vol. II (Henry Howe, Centennial Edition, 1907)"
-type: link
+type: book
 era: 1880-1920
 description: "Henry Howe's two-volume county-by-county encyclopedia of Ohio, first written in 1846-47 and repeatedly expanded; the 1907 Centennial Edition includes a Paulding County chapter. Long in the public domain and freely available online."
 source: "Henry Howe, LL.D.; published by the State of Ohio, C.J. Krehbiel & Co., Cincinnati, 1907 (Ohio Centennial Edition)."

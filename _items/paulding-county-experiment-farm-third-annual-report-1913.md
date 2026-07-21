@@ -1,6 +1,6 @@
 ---
 title: "The Paulding County Experiment Farm: Third Annual Report"
-type: link
+type: book
 era: 1880-1920
 date: 1914-01-01
 description: "The third annual report on the Paulding County Experiment Farm, covering 1913, published by the Ohio Agricultural Experiment Station in 1914."

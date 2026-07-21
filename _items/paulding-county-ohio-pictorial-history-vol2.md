@@ -1,6 +1,6 @@
 ---
 title: "Paulding County, Ohio: A Pictorial History, Volume II"
-type: link
+type: book
 era: 1920-2000
 description: "The second volume of a major community pictorial history of Paulding County, compiled by the Paulding Chamber of Commerce and Volume 2 History Book Committee, covering the early 1800s through 1970."
 source: "M.T. Publishing Company (Evansville, IN); compiled by the Paulding Chamber of Commerce and Volume 2 History Book Committee."

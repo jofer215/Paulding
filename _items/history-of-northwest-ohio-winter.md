@@ -1,6 +1,6 @@
 ---
 title: "A History of Northwest Ohio (Nevin O. Winter)"
-type: link
+type: book
 era: 1880-1920
 description: "Nevin O. Winter's narrative history of northwest Ohio's development, from the first European exploration of the Maumee onward — broader regional context for Paulding County's history. Volume I; long in the public domain."
 source: "Nevin O. Winter, Litt. D.; The Lewis Publishing Company, Chicago and New York, 1917. Vol. I of III."

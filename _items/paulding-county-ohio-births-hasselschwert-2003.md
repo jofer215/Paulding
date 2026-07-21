@@ -1,6 +1,6 @@
 ---
 title: "Paulding County Ohio Births"
-type: link
+type: book
 era: 1920-2000
 description: "Dorothy (Font) Hasselschwert's compilation of Paulding County, Ohio birth records, published as an Ohio Bicentennial project in 2003."
 source: "Dorothy (Font) Hasselschwert, 2003 (Ohio Bicentennial)."

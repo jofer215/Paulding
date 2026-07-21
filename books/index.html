@@ -1,0 +1,11 @@
+---
+layout: default
+title: Books
+description: Books about Paulding County, Ohio — some cataloged for reference, others fully transcribed.
+---
+<h1>Books</h1>
+<p>Books about Paulding County history — bibliographic citations for ones we don't have a digitized copy of, and full entries for the ones we do.</p>
+
+{% include filter-controls.html lock_type=true %}
+{% assign books = site.items | where: "type", "book" | sort: "date" | reverse %}
+{% include item-grid.html items=books %}

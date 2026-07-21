@@ -1,6 +1,6 @@
 ---
 title: "Paulding County, Ohio: A Pictorial History, Volume I"
-type: link
+type: book
 era: 1920-2000
 description: "The first volume of a major community pictorial history of Paulding County, sponsored by the John Paulding Historical Society, published by Turner Publishing Company."
 source: "Turner Publishing Company; sponsored by the John Paulding Historical Society."

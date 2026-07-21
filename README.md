@@ -42,6 +42,7 @@ project or its AI assistance.
 - **Documents** — scanned deeds, meeting minutes, government records, and other primary sources
 - **Maps** — plat maps, atlases, and surveys of the county
 - **Articles** — newspaper clippings, essays, and written histories
+- **Books** — books about Paulding County, cataloged by citation or fully transcribed
 - **Links** — curated links to external archives, societies, and research resources
 
 Every item has a small amount of structured metadata (type, era, source,

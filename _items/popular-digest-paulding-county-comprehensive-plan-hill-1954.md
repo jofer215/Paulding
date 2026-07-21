@@ -1,6 +1,6 @@
 ---
 title: "Popular Digest of the Paulding County Comprehensive Plan"
-type: link
+type: book
 era: 1920-2000
 description: "A 1954 digest of the Paulding County Regional Planning Commission's comprehensive plan, prepared by planning consultant Carroll V. Hill."
 source: "Carroll V. Hill & Associates, Planning Consultants, Columbus; prepared for the Paulding County Regional Planning Commission, Paulding, Ohio, 1954. OCLC 68664215."

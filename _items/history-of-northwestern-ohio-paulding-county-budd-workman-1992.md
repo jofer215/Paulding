@@ -1,6 +1,6 @@
 ---
 title: "History of Northwestern Ohio, History of Paulding County (Budd, compiled by Workman, 1992)"
-type: link
+type: book
 era: 1920-2000
 description: "A 1992 compilation by Marjean Holmes Workman reprinting pages 179-239 of the 1882 Historical Hand-Atlas — Everett A. Budd's county history essay (already transcribed elsewhere in this archive) plus township and personal histories of Paulding County that this archive is still missing."
 source: "By Everett A. Budd (1882 original); compiled by Marjean Holmes Workman, 1992. A part of the Historical Hand Atlas, H.H. Hardesty & Company Publishers (1882), pages 179-239."

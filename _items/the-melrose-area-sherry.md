@@ -1,6 +1,6 @@
 ---
 title: "The Melrose Area (Ann Swallem Sherry)"
-type: link
+type: book
 era: 2000-present
 description: "A 329-page illustrated local history of the Melrose area of Paulding County."
 source: "Ann Swallem Sherry, Hubbard Company, 1989"

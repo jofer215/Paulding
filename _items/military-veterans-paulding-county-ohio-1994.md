@@ -1,6 +1,6 @@
 ---
 title: "Military Veterans, Paulding County, Ohio"
-type: link
+type: book
 era: 1920-2000
 description: "A 1994 compilation of military veterans records from Paulding County, Ohio, compiler unknown."
 source: "Compiler unknown, 1994."

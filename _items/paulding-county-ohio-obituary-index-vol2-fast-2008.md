@@ -1,6 +1,6 @@
 ---
 title: "Paulding County Ohio Obituary Index, Volume 2"
-type: link
+type: book
 era: 1920-2000
 description: "Gloria (Mohr) Fast's obituary index for Paulding County, Ohio — Volume 2, 2008."
 source: "Gloria (Mohr) Fast, 2008."

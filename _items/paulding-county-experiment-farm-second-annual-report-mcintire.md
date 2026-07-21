@@ -1,6 +1,6 @@
 ---
 title: "Second Annual Report of the Paulding County Experiment Farm"
-type: link
+type: book
 era: 1880-1920
 description: "Charles McIntire's second annual report on the Paulding County Experiment Farm, an Ohio Agricultural Experiment Station research bulletin."
 source: "Charles McIntire, Bulletin (Ohio Agricultural Experiment Station), no. 258. OCLC 18821919."

@@ -1,6 +1,6 @@
 ---
 title: "History of Grover Hill (Latty and Washington Townships)"
-type: link
+type: book
 era: 2000-present
 description: "A 393-page history of Grover Hill, covering Latty and Washington Townships of Paulding County."
 source: "Laurence R. Hipp, 1971"
